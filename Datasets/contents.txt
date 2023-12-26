@@ -1,0 +1,12 @@
+ROOMS_Athens_large.csv
+ROOMS_Athens_medium.csv
+ROOMS_Athens_small.csv
+
+ROOMS_Barcelona_large.csv
+ROOMS_Barcelona_medium.csv
+ROOMS_Barcelona_small.csv
+
+ROOMS_Rome_large.csv
+ROOMS_Rome_medium.csv
+ROOMS_Rome_small.csv
+
