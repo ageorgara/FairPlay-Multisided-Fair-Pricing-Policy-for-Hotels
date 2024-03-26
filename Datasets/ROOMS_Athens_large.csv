@@ -1,0 +1,666 @@
+Hotel id,City,Stars,Room id,Price,Room Type,Details,Rating
+A for Athens,Barcelona,0,AT_0000_000,191,Double,"Psiri, Athens - 0.8 km - Metro access -",9.1
+A for Athens,Barcelona,0,AT_0000_001,191,Double,"Psiri, Athens - 0.8 km - Metro access -",9.1
+A for Athens,Barcelona,0,AT_0000_002,191,Double,"Psiri, Athens - 0.8 km - Metro access -",9.1
+A for Athens,Barcelona,0,AT_0000_003,191,Double,"Psiri, Athens - 0.8 km - Metro access -",9.1
+A for Athens,Barcelona,0,AT_0000_004,191,Double,"Psiri, Athens - 0.8 km - Metro access -",9.1
+A for Athens,Barcelona,0,AT_0000_005,191,Double,"Psiri, Athens - 0.8 km - Metro access -",9.1
+A for Athens,Barcelona,0,AT_0000_006,191,Double,"Psiri, Athens - 0.8 km - Metro access -",9.1
+A for Athens,Barcelona,0,AT_0000_007,191,Double,"Psiri, Athens - 0.8 km - Metro access -",9.1
+A for Athens,Barcelona,0,AT_0000_008,191,Double,"Psiri, Athens - 0.8 km - Metro access -",9.1
+A for Athens,Barcelona,0,AT_0000_009,191,Double,"Psiri, Athens - 0.8 km - Metro access -",9.1
+A for Athens,Barcelona,0,AT_0000_010,191,Double,"Psiri, Athens - 0.8 km - Metro access -",9.1
+A for Athens,Barcelona,0,AT_0000_011,191,Double,"Psiri, Athens - 0.8 km - Metro access -",9.1
+A for Athens,Barcelona,0,AT_0000_012,191,Double,"Psiri, Athens - 0.8 km - Metro access -",9.1
+A for Athens,Barcelona,0,AT_0000_013,191,Double,"Psiri, Athens - 0.8 km - Metro access -",9.1
+A for Athens,Barcelona,0,AT_0000_014,191,Double,"Psiri, Athens - 0.8 km - Metro access -",9.1
+A for Athens,Barcelona,0,AT_0000_015,191,Double,"Psiri, Athens - 0.8 km - Metro access -",9.1
+A for Athens,Barcelona,0,AT_0000_016,191,Double,"Psiri, Athens - 0.8 km - Metro access -",9.1
+A for Athens,Barcelona,0,AT_0000_017,191,Double,"Psiri, Athens - 0.8 km - Metro access -",9.1
+A for Athens,Barcelona,0,AT_0000_018,191,Double,"Psiri, Athens - 0.8 km - Metro access -",9.1
+A for Athens,Barcelona,0,AT_0000_019,191,Double,"Psiri, Athens - 0.8 km - Metro access -",9.1
+A for Athens,Barcelona,0,AT_0000_020,191,Double,"Psiri, Athens - 0.8 km - Metro access -",9.1
+Acropolis Hill Hotel,Barcelona,3,AT_0001_000,162,Double,"Koukaki, Athens - 1.4 km - Metro access -",8.5
+Acropolis Hill Hotel,Barcelona,3,AT_0001_001,162,Double,"Koukaki, Athens - 1.4 km - Metro access -",8.5
+Acropolis Hill Hotel,Barcelona,3,AT_0001_002,162,Double,"Koukaki, Athens - 1.4 km - Metro access -",8.5
+Acropolis Hill Hotel,Barcelona,3,AT_0001_003,162,Double,"Koukaki, Athens - 1.4 km - Metro access -",8.5
+Acropolis Hill Hotel,Barcelona,3,AT_0001_004,162,Double,"Koukaki, Athens - 1.4 km - Metro access -",8.5
+Acropolis Hill Hotel,Barcelona,3,AT_0001_005,162,Double,"Koukaki, Athens - 1.4 km - Metro access -",8.5
+Acropolis Hill Hotel,Barcelona,3,AT_0001_006,162,Double,"Koukaki, Athens - 1.4 km - Metro access -",8.5
+Acropolis Hill Hotel,Barcelona,3,AT_0001_007,162,Double,"Koukaki, Athens - 1.4 km - Metro access -",8.5
+Acropolis Hill Hotel,Barcelona,3,AT_0001_008,162,Double,"Koukaki, Athens - 1.4 km - Metro access -",8.5
+Acropolis Hill Hotel,Barcelona,3,AT_0001_009,162,Double,"Koukaki, Athens - 1.4 km - Metro access -",8.5
+Acropolis Hill Hotel,Barcelona,3,AT_0001_010,162,Double,"Koukaki, Athens - 1.4 km - Metro access -",8.5
+Acropolis Hill Hotel,Barcelona,3,AT_0001_011,162,Double,"Koukaki, Athens - 1.4 km - Metro access -",8.5
+Acropolis Hill Hotel,Barcelona,3,AT_0001_012,162,Double,"Koukaki, Athens - 1.4 km - Metro access -",8.5
+Acropolis Hill Hotel,Barcelona,3,AT_0001_013,162,Double,"Koukaki, Athens - 1.4 km - Metro access -",8.5
+Acropolis Hill Hotel,Barcelona,3,AT_0001_014,162,Double,"Koukaki, Athens - 1.4 km - Metro access -",8.5
+Acropolis View Hotel,Barcelona,3,AT_0002_000,106,Double,"Koukaki, Athens - 1.2 km - Metro access -",9.0
+Acropolis View Hotel,Barcelona,3,AT_0002_001,106,Double,"Koukaki, Athens - 1.2 km - Metro access -",9.0
+Acropolis View Hotel,Barcelona,3,AT_0002_002,106,Double,"Koukaki, Athens - 1.2 km - Metro access -",9.0
+Acropolis View Hotel,Barcelona,3,AT_0002_003,106,Double,"Koukaki, Athens - 1.2 km - Metro access -",9.0
+Acropolis View Hotel,Barcelona,3,AT_0002_004,106,Double,"Koukaki, Athens - 1.2 km - Metro access -",9.0
+Acropolis View Hotel,Barcelona,3,AT_0002_005,106,Double,"Koukaki, Athens - 1.2 km - Metro access -",9.0
+Acropolis View Hotel,Barcelona,3,AT_0002_006,106,Double,"Koukaki, Athens - 1.2 km - Metro access -",9.0
+Acropolis View Hotel,Barcelona,3,AT_0002_007,106,Double,"Koukaki, Athens - 1.2 km - Metro access -",9.0
+Acropolis View Hotel,Barcelona,3,AT_0002_008,106,Double,"Koukaki, Athens - 1.2 km - Metro access -",9.0
+Acropolis View Hotel,Barcelona,3,AT_0002_009,106,Double,"Koukaki, Athens - 1.2 km - Metro access -",9.0
+Acropolis View Hotel,Barcelona,3,AT_0002_010,78,Single ,"Koukaki, Athens - 1.2 km - Metro access -",9.0
+Acropolis View Hotel,Barcelona,3,AT_0002_011,78,Single ,"Koukaki, Athens - 1.2 km - Metro access -",9.0
+Acropolis View Hotel,Barcelona,3,AT_0002_012,78,Single ,"Koukaki, Athens - 1.2 km - Metro access -",9.0
+Acropolis View Hotel,Barcelona,3,AT_0002_013,78,Single ,"Koukaki, Athens - 1.2 km - Metro access -",9.0
+Acropolis View Hotel,Barcelona,3,AT_0002_014,78,Single ,"Koukaki, Athens - 1.2 km - Metro access -",9.0
+Acropolis View Hotel,Barcelona,3,AT_0002_015,139,Triple,"Koukaki, Athens - 1.2 km - Metro access -",9.0
+Acropolis View Hotel,Barcelona,3,AT_0002_016,139,Triple,"Koukaki, Athens - 1.2 km - Metro access -",9.0
+Acropolis View Hotel,Barcelona,3,AT_0002_017,139,Triple,"Koukaki, Athens - 1.2 km - Metro access -",9.0
+Acropolis View Hotel,Barcelona,3,AT_0002_018,139,Triple,"Koukaki, Athens - 1.2 km - Metro access -",9.0
+Acropolis View Hotel,Barcelona,3,AT_0002_019,139,Triple,"Koukaki, Athens - 1.2 km - Metro access -",9.0
+Acropolis View Hotel,Barcelona,3,AT_0002_020,139,Triple,"Koukaki, Athens - 1.2 km - Metro access -",9.0
+Acropolis View Hotel,Barcelona,3,AT_0002_021,139,Triple,"Koukaki, Athens - 1.2 km - Metro access -",9.0
+Acropolis View Hotel,Barcelona,3,AT_0002_022,139,Triple,"Koukaki, Athens - 1.2 km - Metro access -",9.0
+Acropolis View Hotel,Barcelona,3,AT_0002_023,139,Triple,"Koukaki, Athens - 1.2 km - Metro access -",9.0
+Adrian Hotel,Barcelona,3,AT_0003_000,132,Double,"Plaka, Athens - 0.7 km - Metro access -",8.7
+Adrian Hotel,Barcelona,3,AT_0003_001,132,Double,"Plaka, Athens - 0.7 km - Metro access -",8.7
+Adrian Hotel,Barcelona,3,AT_0003_002,132,Double,"Plaka, Athens - 0.7 km - Metro access -",8.7
+Adrian Hotel,Barcelona,3,AT_0003_003,132,Double,"Plaka, Athens - 0.7 km - Metro access -",8.7
+Adrian Hotel,Barcelona,3,AT_0003_004,132,Double,"Plaka, Athens - 0.7 km - Metro access -",8.7
+Adrian Hotel,Barcelona,3,AT_0003_005,132,Double,"Plaka, Athens - 0.7 km - Metro access -",8.7
+Adrian Hotel,Barcelona,3,AT_0003_006,132,Double,"Plaka, Athens - 0.7 km - Metro access -",8.7
+Adrian Hotel,Barcelona,3,AT_0003_007,132,Double,"Plaka, Athens - 0.7 km - Metro access -",8.7
+Adrian Hotel,Barcelona,3,AT_0003_008,132,Double,"Plaka, Athens - 0.7 km - Metro access -",8.7
+Adrian Hotel,Barcelona,3,AT_0003_009,132,Double,"Plaka, Athens - 0.7 km - Metro access -",8.7
+Adrian Hotel,Barcelona,3,AT_0003_010,132,Double,"Plaka, Athens - 0.7 km - Metro access -",8.7
+Adrian Hotel,Barcelona,3,AT_0003_011,132,Double,"Plaka, Athens - 0.7 km - Metro access -",8.7
+Adrian Hotel,Barcelona,3,AT_0003_012,132,Double,"Plaka, Athens - 0.7 km - Metro access -",8.7
+Adrian Hotel,Barcelona,3,AT_0003_013,132,Double,"Plaka, Athens - 0.7 km - Metro access -",8.7
+Adrian Hotel,Barcelona,3,AT_0003_014,132,Double,"Plaka, Athens - 0.7 km - Metro access -",8.7
+Adrian Hotel,Barcelona,3,AT_0003_015,132,Double,"Plaka, Athens - 0.7 km - Metro access -",8.7
+Adrian Hotel,Barcelona,3,AT_0003_016,132,Double,"Plaka, Athens - 0.7 km - Metro access -",8.7
+Adrian Hotel,Barcelona,3,AT_0003_017,132,Double,"Plaka, Athens - 0.7 km - Metro access -",8.7
+Adrian Hotel,Barcelona,3,AT_0003_018,132,Double,"Plaka, Athens - 0.7 km - Metro access -",8.7
+Adrian Hotel,Barcelona,3,AT_0003_019,157,Triple,"Plaka, Athens - 0.7 km - Metro access -",8.7
+Adrian Hotel,Barcelona,3,AT_0003_020,157,Triple,"Plaka, Athens - 0.7 km - Metro access -",8.7
+Adrian Hotel,Barcelona,3,AT_0003_021,157,Triple,"Plaka, Athens - 0.7 km - Metro access -",8.7
+Adrian Hotel,Barcelona,3,AT_0003_022,157,Triple,"Plaka, Athens - 0.7 km - Metro access -",8.7
+Adrian Hotel,Barcelona,3,AT_0003_023,157,Triple,"Plaka, Athens - 0.7 km - Metro access -",8.7
+Ambrosia Suites,Barcelona,0,AT_0004_000,69,Double,"Athens City Centre, Athens - 1.3 km - Metro access -",7.8
+Ambrosia Suites,Barcelona,0,AT_0004_001,69,Double,"Athens City Centre, Athens - 1.3 km - Metro access -",7.8
+Ambrosia Suites,Barcelona,0,AT_0004_002,69,Double,"Athens City Centre, Athens - 1.3 km - Metro access -",7.8
+Ambrosia Suites,Barcelona,0,AT_0004_003,69,Double,"Athens City Centre, Athens - 1.3 km - Metro access -",7.8
+Ambrosia Suites,Barcelona,0,AT_0004_004,69,Double,"Athens City Centre, Athens - 1.3 km - Metro access -",7.8
+Ambrosia Suites,Barcelona,0,AT_0004_005,69,Double,"Athens City Centre, Athens - 1.3 km - Metro access -",7.8
+Ambrosia Suites,Barcelona,0,AT_0004_006,69,Double,"Athens City Centre, Athens - 1.3 km - Metro access -",7.8
+Ambrosia Suites,Barcelona,0,AT_0004_007,69,Double,"Athens City Centre, Athens - 1.3 km - Metro access -",7.8
+Ambrosia Suites,Barcelona,0,AT_0004_008,69,Double,"Athens City Centre, Athens - 1.3 km - Metro access -",7.8
+Ambrosia Suites,Barcelona,0,AT_0004_009,69,Double,"Athens City Centre, Athens - 1.3 km - Metro access -",7.8
+Ambrosia Suites,Barcelona,0,AT_0004_010,69,Double,"Athens City Centre, Athens - 1.3 km - Metro access -",7.8
+Ambrosia Suites,Barcelona,0,AT_0004_011,69,Double,"Athens City Centre, Athens - 1.3 km - Metro access -",7.8
+Ambrosia Suites,Barcelona,0,AT_0004_012,69,Double,"Athens City Centre, Athens - 1.3 km - Metro access -",7.8
+Ambrosia Suites,Barcelona,0,AT_0004_013,69,Double,"Athens City Centre, Athens - 1.3 km - Metro access -",7.8
+Ambrosia Suites,Barcelona,0,AT_0004_014,69,Double,"Athens City Centre, Athens - 1.3 km - Metro access -",7.8
+Ambrosia Suites,Barcelona,0,AT_0004_015,47,Single ,"Athens City Centre, Athens - 1.3 km - Metro access -",7.8
+Ambrosia Suites,Barcelona,0,AT_0004_016,47,Single ,"Athens City Centre, Athens - 1.3 km - Metro access -",7.8
+Ambrosia Suites,Barcelona,0,AT_0004_017,47,Single ,"Athens City Centre, Athens - 1.3 km - Metro access -",7.8
+Ambrosia Suites,Barcelona,0,AT_0004_018,47,Single ,"Athens City Centre, Athens - 1.3 km - Metro access -",7.8
+Ambrosia Suites,Barcelona,0,AT_0004_019,47,Single ,"Athens City Centre, Athens - 1.3 km - Metro access -",7.8
+Ambrosia Suites,Barcelona,0,AT_0004_020,88,Triple,"Athens City Centre, Athens - 1.3 km - Metro access -",7.8
+Ambrosia Suites,Barcelona,0,AT_0004_021,88,Triple,"Athens City Centre, Athens - 1.3 km - Metro access -",7.8
+Ambrosia Suites,Barcelona,0,AT_0004_022,88,Triple,"Athens City Centre, Athens - 1.3 km - Metro access -",7.8
+Ambrosia Suites,Barcelona,0,AT_0004_023,88,Triple,"Athens City Centre, Athens - 1.3 km - Metro access -",7.8
+Ambrosia Suites,Barcelona,0,AT_0004_024,88,Triple,"Athens City Centre, Athens - 1.3 km - Metro access -",7.8
+Ambrosia Suites,Barcelona,0,AT_0004_025,88,Triple,"Athens City Centre, Athens - 1.3 km - Metro access -",7.8
+Ambrosia Suites,Barcelona,0,AT_0004_026,88,Triple,"Athens City Centre, Athens - 1.3 km - Metro access -",7.8
+Ambrosia Suites,Barcelona,0,AT_0004_027,88,Triple,"Athens City Centre, Athens - 1.3 km - Metro access -",7.8
+Ambrosia Suites,Barcelona,0,AT_0004_028,88,Triple,"Athens City Centre, Athens - 1.3 km - Metro access -",7.8
+Arethusa Hotel,Barcelona,3,AT_0005_000,92,Double,"Syntagma, Athens - 150 m - Metro access -",8.4
+Arethusa Hotel,Barcelona,3,AT_0005_001,92,Double,"Syntagma, Athens - 150 m - Metro access -",8.4
+Arethusa Hotel,Barcelona,3,AT_0005_002,92,Double,"Syntagma, Athens - 150 m - Metro access -",8.4
+Arethusa Hotel,Barcelona,3,AT_0005_003,92,Double,"Syntagma, Athens - 150 m - Metro access -",8.4
+Arethusa Hotel,Barcelona,3,AT_0005_004,92,Double,"Syntagma, Athens - 150 m - Metro access -",8.4
+Arethusa Hotel,Barcelona,3,AT_0005_005,92,Double,"Syntagma, Athens - 150 m - Metro access -",8.4
+Arethusa Hotel,Barcelona,3,AT_0005_006,92,Double,"Syntagma, Athens - 150 m - Metro access -",8.4
+Arethusa Hotel,Barcelona,3,AT_0005_007,92,Double,"Syntagma, Athens - 150 m - Metro access -",8.4
+Arethusa Hotel,Barcelona,3,AT_0005_008,92,Double,"Syntagma, Athens - 150 m - Metro access -",8.4
+Arethusa Hotel,Barcelona,3,AT_0005_009,92,Double,"Syntagma, Athens - 150 m - Metro access -",8.4
+Arethusa Hotel,Barcelona,3,AT_0005_010,92,Double,"Syntagma, Athens - 150 m - Metro access -",8.4
+Arethusa Hotel,Barcelona,3,AT_0005_011,92,Double,"Syntagma, Athens - 150 m - Metro access -",8.4
+Arethusa Hotel,Barcelona,3,AT_0005_012,92,Double,"Syntagma, Athens - 150 m - Metro access -",8.4
+Arethusa Hotel,Barcelona,3,AT_0005_013,92,Double,"Syntagma, Athens - 150 m - Metro access -",8.4
+Arethusa Hotel,Barcelona,3,AT_0005_014,92,Double,"Syntagma, Athens - 150 m - Metro access -",8.4
+Arethusa Hotel,Barcelona,3,AT_0005_015,107,Triple,"Syntagma, Athens - 150 m - Metro access -",8.4
+Arethusa Hotel,Barcelona,3,AT_0005_016,107,Triple,"Syntagma, Athens - 150 m - Metro access -",8.4
+Arethusa Hotel,Barcelona,3,AT_0005_017,107,Triple,"Syntagma, Athens - 150 m - Metro access -",8.4
+Arethusa Hotel,Barcelona,3,AT_0005_018,107,Triple,"Syntagma, Athens - 150 m - Metro access -",8.4
+Arethusa Hotel,Barcelona,3,AT_0005_019,107,Triple,"Syntagma, Athens - 150 m - Metro access -",8.4
+Arethusa Hotel,Barcelona,3,AT_0005_020,107,Triple,"Syntagma, Athens - 150 m - Metro access -",8.4
+Arethusa Hotel,Barcelona,3,AT_0005_021,107,Triple,"Syntagma, Athens - 150 m - Metro access -",8.4
+Arethusa Hotel,Barcelona,3,AT_0005_022,107,Triple,"Syntagma, Athens - 150 m - Metro access -",8.4
+Athens Marriott Hotel,Barcelona,5,AT_0006_000,224,Double,"Palaio Faliro, Athens - 5.1 km - Beach nearby",8.5
+Athens Marriott Hotel,Barcelona,5,AT_0006_001,224,Double,"Palaio Faliro, Athens - 5.1 km - Beach nearby",8.5
+Athens Marriott Hotel,Barcelona,5,AT_0006_002,224,Double,"Palaio Faliro, Athens - 5.1 km - Beach nearby",8.5
+Athens Marriott Hotel,Barcelona,5,AT_0006_003,224,Double,"Palaio Faliro, Athens - 5.1 km - Beach nearby",8.5
+Athens Marriott Hotel,Barcelona,5,AT_0006_004,224,Double,"Palaio Faliro, Athens - 5.1 km - Beach nearby",8.5
+Athens Marriott Hotel,Barcelona,5,AT_0006_005,224,Double,"Palaio Faliro, Athens - 5.1 km - Beach nearby",8.5
+Athens Marriott Hotel,Barcelona,5,AT_0006_006,224,Double,"Palaio Faliro, Athens - 5.1 km - Beach nearby",8.5
+Athens Marriott Hotel,Barcelona,5,AT_0006_007,224,Double,"Palaio Faliro, Athens - 5.1 km - Beach nearby",8.5
+Athens Marriott Hotel,Barcelona,5,AT_0006_008,224,Double,"Palaio Faliro, Athens - 5.1 km - Beach nearby",8.5
+Athens Marriott Hotel,Barcelona,5,AT_0006_009,224,Double,"Palaio Faliro, Athens - 5.1 km - Beach nearby",8.5
+Athens Marriott Hotel,Barcelona,5,AT_0006_010,224,Double,"Palaio Faliro, Athens - 5.1 km - Beach nearby",8.5
+Athens Marriott Hotel,Barcelona,5,AT_0006_011,224,Double,"Palaio Faliro, Athens - 5.1 km - Beach nearby",8.5
+Athens Marriott Hotel,Barcelona,5,AT_0006_012,224,Double,"Palaio Faliro, Athens - 5.1 km - Beach nearby",8.5
+Athens Marriott Hotel,Barcelona,5,AT_0006_013,224,Double,"Palaio Faliro, Athens - 5.1 km - Beach nearby",8.5
+Athens Marriott Hotel,Barcelona,5,AT_0006_014,224,Double,"Palaio Faliro, Athens - 5.1 km - Beach nearby",8.5
+Athens Marriott Hotel,Barcelona,5,AT_0006_015,224,Double,"Palaio Faliro, Athens - 5.1 km - Beach nearby",8.5
+Athens Marriott Hotel,Barcelona,5,AT_0006_016,224,Double,"Palaio Faliro, Athens - 5.1 km - Beach nearby",8.5
+Athens Marriott Hotel,Barcelona,5,AT_0006_017,224,Double,"Palaio Faliro, Athens - 5.1 km - Beach nearby",8.5
+Athens Marriott Hotel,Barcelona,5,AT_0006_018,224,Double,"Palaio Faliro, Athens - 5.1 km - Beach nearby",8.5
+Athens Marriott Hotel,Barcelona,5,AT_0006_019,224,Double,"Palaio Faliro, Athens - 5.1 km - Beach nearby",8.5
+Athens Marriott Hotel,Barcelona,5,AT_0006_020,224,Double,"Palaio Faliro, Athens - 5.1 km - Beach nearby",8.5
+Athens Marriott Hotel,Barcelona,5,AT_0006_021,224,Double,"Palaio Faliro, Athens - 5.1 km - Beach nearby",8.5
+Athens Mirabello,Barcelona,3,AT_0007_000,74,Double,"Athens City Centre, Athens - 1.2 km - Metro access -",8.5
+Athens Mirabello,Barcelona,3,AT_0007_001,74,Double,"Athens City Centre, Athens - 1.2 km - Metro access -",8.5
+Athens Mirabello,Barcelona,3,AT_0007_002,74,Double,"Athens City Centre, Athens - 1.2 km - Metro access -",8.5
+Athens Mirabello,Barcelona,3,AT_0007_003,74,Double,"Athens City Centre, Athens - 1.2 km - Metro access -",8.5
+Athens Mirabello,Barcelona,3,AT_0007_004,74,Double,"Athens City Centre, Athens - 1.2 km - Metro access -",8.5
+Athens Mirabello,Barcelona,3,AT_0007_005,74,Double,"Athens City Centre, Athens - 1.2 km - Metro access -",8.5
+Athens Mirabello,Barcelona,3,AT_0007_006,74,Double,"Athens City Centre, Athens - 1.2 km - Metro access -",8.5
+Athens Mirabello,Barcelona,3,AT_0007_007,74,Double,"Athens City Centre, Athens - 1.2 km - Metro access -",8.5
+Athens Mirabello,Barcelona,3,AT_0007_008,74,Double,"Athens City Centre, Athens - 1.2 km - Metro access -",8.5
+Athens Mirabello,Barcelona,3,AT_0007_009,74,Double,"Athens City Centre, Athens - 1.2 km - Metro access -",8.5
+Athens Mirabello,Barcelona,3,AT_0007_010,74,Double,"Athens City Centre, Athens - 1.2 km - Metro access -",8.5
+Athens Mirabello,Barcelona,3,AT_0007_011,74,Double,"Athens City Centre, Athens - 1.2 km - Metro access -",8.5
+Athens Mirabello,Barcelona,3,AT_0007_012,74,Double,"Athens City Centre, Athens - 1.2 km - Metro access -",8.5
+Athens Mirabello,Barcelona,3,AT_0007_013,74,Double,"Athens City Centre, Athens - 1.2 km - Metro access -",8.5
+Athens Mirabello,Barcelona,3,AT_0007_014,74,Double,"Athens City Centre, Athens - 1.2 km - Metro access -",8.5
+Athens Mirabello,Barcelona,3,AT_0007_015,74,Double,"Athens City Centre, Athens - 1.2 km - Metro access -",8.5
+Athens Mirabello,Barcelona,3,AT_0007_016,51,Single ,"Athens City Centre, Athens - 1.2 km - Metro access -",8.5
+Athens Mirabello,Barcelona,3,AT_0007_017,51,Single ,"Athens City Centre, Athens - 1.2 km - Metro access -",8.5
+Athens Mirabello,Barcelona,3,AT_0007_018,51,Single ,"Athens City Centre, Athens - 1.2 km - Metro access -",8.5
+Athens Mirabello,Barcelona,3,AT_0007_019,51,Single ,"Athens City Centre, Athens - 1.2 km - Metro access -",8.5
+Athens Mirabello,Barcelona,3,AT_0007_020,51,Single ,"Athens City Centre, Athens - 1.2 km - Metro access -",8.5
+Athens One Smart Hotel,Barcelona,4,AT_0008_000,86,Double,"Athens City Centre, Athens - 1.4 km - Metro access -",8.4
+Athens One Smart Hotel,Barcelona,4,AT_0008_001,86,Double,"Athens City Centre, Athens - 1.4 km - Metro access -",8.4
+Athens One Smart Hotel,Barcelona,4,AT_0008_002,86,Double,"Athens City Centre, Athens - 1.4 km - Metro access -",8.4
+Athens One Smart Hotel,Barcelona,4,AT_0008_003,86,Double,"Athens City Centre, Athens - 1.4 km - Metro access -",8.4
+Athens One Smart Hotel,Barcelona,4,AT_0008_004,86,Double,"Athens City Centre, Athens - 1.4 km - Metro access -",8.4
+Athens One Smart Hotel,Barcelona,4,AT_0008_005,86,Double,"Athens City Centre, Athens - 1.4 km - Metro access -",8.4
+Athens One Smart Hotel,Barcelona,4,AT_0008_006,86,Double,"Athens City Centre, Athens - 1.4 km - Metro access -",8.4
+Athens One Smart Hotel,Barcelona,4,AT_0008_007,86,Double,"Athens City Centre, Athens - 1.4 km - Metro access -",8.4
+Athens One Smart Hotel,Barcelona,4,AT_0008_008,86,Double,"Athens City Centre, Athens - 1.4 km - Metro access -",8.4
+Athens One Smart Hotel,Barcelona,4,AT_0008_009,86,Double,"Athens City Centre, Athens - 1.4 km - Metro access -",8.4
+Athens One Smart Hotel,Barcelona,4,AT_0008_010,86,Double,"Athens City Centre, Athens - 1.4 km - Metro access -",8.4
+Athens One Smart Hotel,Barcelona,4,AT_0008_011,86,Double,"Athens City Centre, Athens - 1.4 km - Metro access -",8.4
+Athens One Smart Hotel,Barcelona,4,AT_0008_012,86,Double,"Athens City Centre, Athens - 1.4 km - Metro access -",8.4
+Athens One Smart Hotel,Barcelona,4,AT_0008_013,86,Double,"Athens City Centre, Athens - 1.4 km - Metro access -",8.4
+Athens One Smart Hotel,Barcelona,4,AT_0008_014,86,Double,"Athens City Centre, Athens - 1.4 km - Metro access -",8.4
+Athens One Smart Hotel,Barcelona,4,AT_0008_015,86,Double,"Athens City Centre, Athens - 1.4 km - Metro access -",8.4
+Athens One Smart Hotel,Barcelona,4,AT_0008_016,86,Double,"Athens City Centre, Athens - 1.4 km - Metro access -",8.4
+Athens One Smart Hotel,Barcelona,4,AT_0008_017,86,Double,"Athens City Centre, Athens - 1.4 km - Metro access -",8.4
+Athens One Smart Hotel,Barcelona,4,AT_0008_018,86,Double,"Athens City Centre, Athens - 1.4 km - Metro access -",8.4
+Athens One Smart Hotel,Barcelona,4,AT_0008_019,107,Suite,"Athens City Centre, Athens - 1.4 km - Metro access -",8.4
+Athens One Smart Hotel,Barcelona,4,AT_0008_020,107,Suite,"Athens City Centre, Athens - 1.4 km - Metro access -",8.4
+Athens One Smart Hotel,Barcelona,4,AT_0008_021,107,Suite,"Athens City Centre, Athens - 1.4 km - Metro access -",8.4
+Athos Hotel,Barcelona,3,AT_0009_000,102,Double,"Plaka, Athens - 350 m - Metro access -",8.3
+Athos Hotel,Barcelona,3,AT_0009_001,102,Double,"Plaka, Athens - 350 m - Metro access -",8.3
+Athos Hotel,Barcelona,3,AT_0009_002,102,Double,"Plaka, Athens - 350 m - Metro access -",8.3
+Athos Hotel,Barcelona,3,AT_0009_003,102,Double,"Plaka, Athens - 350 m - Metro access -",8.3
+Athos Hotel,Barcelona,3,AT_0009_004,102,Double,"Plaka, Athens - 350 m - Metro access -",8.3
+Athos Hotel,Barcelona,3,AT_0009_005,102,Double,"Plaka, Athens - 350 m - Metro access -",8.3
+Athos Hotel,Barcelona,3,AT_0009_006,102,Double,"Plaka, Athens - 350 m - Metro access -",8.3
+Athos Hotel,Barcelona,3,AT_0009_007,102,Double,"Plaka, Athens - 350 m - Metro access -",8.3
+Athos Hotel,Barcelona,3,AT_0009_008,102,Double,"Plaka, Athens - 350 m - Metro access -",8.3
+Athos Hotel,Barcelona,3,AT_0009_009,102,Double,"Plaka, Athens - 350 m - Metro access -",8.3
+Athos Hotel,Barcelona,3,AT_0009_010,102,Double,"Plaka, Athens - 350 m - Metro access -",8.3
+Athos Hotel,Barcelona,3,AT_0009_011,102,Double,"Plaka, Athens - 350 m - Metro access -",8.3
+Athos Hotel,Barcelona,3,AT_0009_012,102,Double,"Plaka, Athens - 350 m - Metro access -",8.3
+Athos Hotel,Barcelona,3,AT_0009_013,102,Double,"Plaka, Athens - 350 m - Metro access -",8.3
+Athos Hotel,Barcelona,3,AT_0009_014,102,Double,"Plaka, Athens - 350 m - Metro access -",8.3
+Athos Hotel,Barcelona,3,AT_0009_015,102,Double,"Plaka, Athens - 350 m - Metro access -",8.3
+Athos Hotel,Barcelona,3,AT_0009_016,102,Double,"Plaka, Athens - 350 m - Metro access -",8.3
+Athos Hotel,Barcelona,3,AT_0009_017,102,Double,"Plaka, Athens - 350 m - Metro access -",8.3
+Athos Hotel,Barcelona,3,AT_0009_018,102,Double,"Plaka, Athens - 350 m - Metro access -",8.3
+Athos Hotel,Barcelona,3,AT_0009_019,102,Double,"Plaka, Athens - 350 m - Metro access -",8.3
+Athos Hotel,Barcelona,3,AT_0009_020,142,Triple,"Plaka, Athens - 350 m - Metro access -",8.3
+Athos Hotel,Barcelona,3,AT_0009_021,142,Triple,"Plaka, Athens - 350 m - Metro access -",8.3
+Athos Hotel,Barcelona,3,AT_0009_022,142,Triple,"Plaka, Athens - 350 m - Metro access -",8.3
+Athos Hotel,Barcelona,3,AT_0009_023,142,Triple,"Plaka, Athens - 350 m - Metro access -",8.3
+Athos Hotel,Barcelona,3,AT_0009_024,142,Triple,"Plaka, Athens - 350 m - Metro access -",8.3
+Attalos Hotel,Barcelona,3,AT_0010_000,80,Double,"Psiri, Athens - 0.8 km - Metro access -",8.8
+Attalos Hotel,Barcelona,3,AT_0010_001,80,Double,"Psiri, Athens - 0.8 km - Metro access -",8.8
+Attalos Hotel,Barcelona,3,AT_0010_002,80,Double,"Psiri, Athens - 0.8 km - Metro access -",8.8
+Attalos Hotel,Barcelona,3,AT_0010_003,80,Double,"Psiri, Athens - 0.8 km - Metro access -",8.8
+Attalos Hotel,Barcelona,3,AT_0010_004,80,Double,"Psiri, Athens - 0.8 km - Metro access -",8.8
+Attalos Hotel,Barcelona,3,AT_0010_005,80,Double,"Psiri, Athens - 0.8 km - Metro access -",8.8
+Attalos Hotel,Barcelona,3,AT_0010_006,80,Double,"Psiri, Athens - 0.8 km - Metro access -",8.8
+Attalos Hotel,Barcelona,3,AT_0010_007,80,Double,"Psiri, Athens - 0.8 km - Metro access -",8.8
+Attalos Hotel,Barcelona,3,AT_0010_008,80,Double,"Psiri, Athens - 0.8 km - Metro access -",8.8
+Attalos Hotel,Barcelona,3,AT_0010_009,80,Double,"Psiri, Athens - 0.8 km - Metro access -",8.8
+Attalos Hotel,Barcelona,3,AT_0010_010,80,Double,"Psiri, Athens - 0.8 km - Metro access -",8.8
+Attalos Hotel,Barcelona,3,AT_0010_011,80,Double,"Psiri, Athens - 0.8 km - Metro access -",8.8
+Attalos Hotel,Barcelona,3,AT_0010_012,80,Double,"Psiri, Athens - 0.8 km - Metro access -",8.8
+Attalos Hotel,Barcelona,3,AT_0010_013,80,Double,"Psiri, Athens - 0.8 km - Metro access -",8.8
+Attalos Hotel,Barcelona,3,AT_0010_014,80,Double,"Psiri, Athens - 0.8 km - Metro access -",8.8
+Attalos Hotel,Barcelona,3,AT_0010_015,80,Double,"Psiri, Athens - 0.8 km - Metro access -",8.8
+Attalos Hotel,Barcelona,3,AT_0010_016,80,Double,"Psiri, Athens - 0.8 km - Metro access -",8.8
+Attalos Hotel,Barcelona,3,AT_0010_017,80,Double,"Psiri, Athens - 0.8 km - Metro access -",8.8
+Attalos Hotel,Barcelona,3,AT_0010_018,80,Double,"Psiri, Athens - 0.8 km - Metro access -",8.8
+Attalos Hotel,Barcelona,3,AT_0010_019,80,Double,"Psiri, Athens - 0.8 km - Metro access -",8.8
+Attalos Hotel,Barcelona,3,AT_0010_020,80,Double,"Psiri, Athens - 0.8 km - Metro access -",8.8
+Attalos Hotel,Barcelona,3,AT_0010_021,80,Double,"Psiri, Athens - 0.8 km - Metro access -",8.8
+Attalos Hotel,Barcelona,3,AT_0010_022,80,Double,"Psiri, Athens - 0.8 km - Metro access -",8.8
+Attalos Hotel,Barcelona,3,AT_0010_023,105,Triple,"Psiri, Athens - 0.8 km - Metro access -",8.8
+Attalos Hotel,Barcelona,3,AT_0010_024,105,Triple,"Psiri, Athens - 0.8 km - Metro access -",8.8
+Attalos Hotel,Barcelona,3,AT_0010_025,105,Triple,"Psiri, Athens - 0.8 km - Metro access -",8.8
+Attalos Hotel,Barcelona,3,AT_0010_026,105,Triple,"Psiri, Athens - 0.8 km - Metro access -",8.8
+Attalos Hotel,Barcelona,3,AT_0010_027,105,Triple,"Psiri, Athens - 0.8 km - Metro access -",8.8
+Attalos Hotel,Barcelona,3,AT_0010_028,105,Triple,"Psiri, Athens - 0.8 km - Metro access -",8.8
+Attalos Hotel,Barcelona,3,AT_0010_029,105,Triple,"Psiri, Athens - 0.8 km - Metro access -",8.8
+BED in Athens,Barcelona,0,AT_0011_000,95,Double,"Psiri, Athens - 1 km - Metro access -",9.6
+BED in Athens,Barcelona,0,AT_0011_001,95,Double,"Psiri, Athens - 1 km - Metro access -",9.6
+BED in Athens,Barcelona,0,AT_0011_002,95,Double,"Psiri, Athens - 1 km - Metro access -",9.6
+BED in Athens,Barcelona,0,AT_0011_003,95,Double,"Psiri, Athens - 1 km - Metro access -",9.6
+BED in Athens,Barcelona,0,AT_0011_004,95,Double,"Psiri, Athens - 1 km - Metro access -",9.6
+BED in Athens,Barcelona,0,AT_0011_005,95,Double,"Psiri, Athens - 1 km - Metro access -",9.6
+BED in Athens,Barcelona,0,AT_0011_006,95,Double,"Psiri, Athens - 1 km - Metro access -",9.6
+BED in Athens,Barcelona,0,AT_0011_007,95,Double,"Psiri, Athens - 1 km - Metro access -",9.6
+BED in Athens,Barcelona,0,AT_0011_008,95,Double,"Psiri, Athens - 1 km - Metro access -",9.6
+BED in Athens,Barcelona,0,AT_0011_009,95,Double,"Psiri, Athens - 1 km - Metro access -",9.6
+BED in Athens,Barcelona,0,AT_0011_010,95,Double,"Psiri, Athens - 1 km - Metro access -",9.6
+BED in Athens,Barcelona,0,AT_0011_011,95,Double,"Psiri, Athens - 1 km - Metro access -",9.6
+BED in Athens,Barcelona,0,AT_0011_012,95,Double,"Psiri, Athens - 1 km - Metro access -",9.6
+BED in Athens,Barcelona,0,AT_0011_013,95,Double,"Psiri, Athens - 1 km - Metro access -",9.6
+BED in Athens,Barcelona,0,AT_0011_014,95,Double,"Psiri, Athens - 1 km - Metro access -",9.6
+BED in Athens,Barcelona,0,AT_0011_015,95,Double,"Psiri, Athens - 1 km - Metro access -",9.6
+BED in Athens,Barcelona,0,AT_0011_016,131,Suite,"Psiri, Athens - 1 km - Metro access -",9.6
+BED in Athens,Barcelona,0,AT_0011_017,131,Suite,"Psiri, Athens - 1 km - Metro access -",9.6
+BED in Athens,Barcelona,0,AT_0011_018,131,Suite,"Psiri, Athens - 1 km - Metro access -",9.6
+BED in Athens,Barcelona,0,AT_0011_019,131,Suite,"Psiri, Athens - 1 km - Metro access -",9.6
+BED in Athens,Barcelona,0,AT_0011_020,131,Suite,"Psiri, Athens - 1 km - Metro access -",9.6
+Candia Hotel,Barcelona,4,AT_0012_000,88,Double,Athens - 2 km - Metro access -,7.2
+Candia Hotel,Barcelona,4,AT_0012_001,88,Double,Athens - 2 km - Metro access -,7.2
+Candia Hotel,Barcelona,4,AT_0012_002,88,Double,Athens - 2 km - Metro access -,7.2
+Candia Hotel,Barcelona,4,AT_0012_003,88,Double,Athens - 2 km - Metro access -,7.2
+Candia Hotel,Barcelona,4,AT_0012_004,88,Double,Athens - 2 km - Metro access -,7.2
+Candia Hotel,Barcelona,4,AT_0012_005,88,Double,Athens - 2 km - Metro access -,7.2
+Candia Hotel,Barcelona,4,AT_0012_006,88,Double,Athens - 2 km - Metro access -,7.2
+Candia Hotel,Barcelona,4,AT_0012_007,88,Double,Athens - 2 km - Metro access -,7.2
+Candia Hotel,Barcelona,4,AT_0012_008,88,Double,Athens - 2 km - Metro access -,7.2
+Candia Hotel,Barcelona,4,AT_0012_009,88,Double,Athens - 2 km - Metro access -,7.2
+Candia Hotel,Barcelona,4,AT_0012_010,88,Double,Athens - 2 km - Metro access -,7.2
+Candia Hotel,Barcelona,4,AT_0012_011,88,Double,Athens - 2 km - Metro access -,7.2
+Candia Hotel,Barcelona,4,AT_0012_012,88,Double,Athens - 2 km - Metro access -,7.2
+Candia Hotel,Barcelona,4,AT_0012_013,88,Double,Athens - 2 km - Metro access -,7.2
+Candia Hotel,Barcelona,4,AT_0012_014,88,Double,Athens - 2 km - Metro access -,7.2
+Candia Hotel,Barcelona,4,AT_0012_015,88,Double,Athens - 2 km - Metro access -,7.2
+Candia Hotel,Barcelona,4,AT_0012_016,88,Double,Athens - 2 km - Metro access -,7.2
+Candia Hotel,Barcelona,4,AT_0012_017,88,Double,Athens - 2 km - Metro access -,7.2
+Candia Hotel,Barcelona,4,AT_0012_018,88,Double,Athens - 2 km - Metro access -,7.2
+Candia Hotel,Barcelona,4,AT_0012_019,123,Triple,Athens - 2 km - Metro access -,7.2
+Candia Hotel,Barcelona,4,AT_0012_020,123,Triple,Athens - 2 km - Metro access -,7.2
+Candia Hotel,Barcelona,4,AT_0012_021,123,Triple,Athens - 2 km - Metro access -,7.2
+Candia Hotel,Barcelona,4,AT_0012_022,123,Triple,Athens - 2 km - Metro access -,7.2
+Candia Hotel,Barcelona,4,AT_0012_023,123,Triple,Athens - 2 km - Metro access -,7.2
+Candia Hotel,Barcelona,4,AT_0012_024,123,Triple,Athens - 2 km - Metro access -,7.2
+Candia Hotel,Barcelona,4,AT_0012_025,123,Triple,Athens - 2 km - Metro access -,7.2
+Candia Hotel,Barcelona,4,AT_0012_026,123,Triple,Athens - 2 km - Metro access -,7.2
+Cecil Hotel,Barcelona,2,AT_0013_000,47,Double,"Psiri, Athens - 0.8 km - Metro access -",7.8
+Cecil Hotel,Barcelona,2,AT_0013_001,47,Double,"Psiri, Athens - 0.8 km - Metro access -",7.8
+Cecil Hotel,Barcelona,2,AT_0013_002,47,Double,"Psiri, Athens - 0.8 km - Metro access -",7.8
+Cecil Hotel,Barcelona,2,AT_0013_003,47,Double,"Psiri, Athens - 0.8 km - Metro access -",7.8
+Cecil Hotel,Barcelona,2,AT_0013_004,47,Double,"Psiri, Athens - 0.8 km - Metro access -",7.8
+Cecil Hotel,Barcelona,2,AT_0013_005,47,Double,"Psiri, Athens - 0.8 km - Metro access -",7.8
+Cecil Hotel,Barcelona,2,AT_0013_006,47,Double,"Psiri, Athens - 0.8 km - Metro access -",7.8
+Cecil Hotel,Barcelona,2,AT_0013_007,47,Double,"Psiri, Athens - 0.8 km - Metro access -",7.8
+Cecil Hotel,Barcelona,2,AT_0013_008,47,Double,"Psiri, Athens - 0.8 km - Metro access -",7.8
+Cecil Hotel,Barcelona,2,AT_0013_009,47,Double,"Psiri, Athens - 0.8 km - Metro access -",7.8
+Cecil Hotel,Barcelona,2,AT_0013_010,46,Single,"Psiri, Athens - 0.8 km - Metro access -",7.8
+Cecil Hotel,Barcelona,2,AT_0013_011,46,Single,"Psiri, Athens - 0.8 km - Metro access -",7.8
+Cecil Hotel,Barcelona,2,AT_0013_012,46,Single,"Psiri, Athens - 0.8 km - Metro access -",7.8
+Cecil Hotel,Barcelona,2,AT_0013_013,46,Single,"Psiri, Athens - 0.8 km - Metro access -",7.8
+Cecil Hotel,Barcelona,2,AT_0013_014,46,Single,"Psiri, Athens - 0.8 km - Metro access -",7.8
+Cecil Hotel,Barcelona,2,AT_0013_015,89,Triple,"Psiri, Athens - 0.8 km - Metro access -",7.8
+Cecil Hotel,Barcelona,2,AT_0013_016,89,Triple,"Psiri, Athens - 0.8 km - Metro access -",7.8
+Cecil Hotel,Barcelona,2,AT_0013_017,89,Triple,"Psiri, Athens - 0.8 km - Metro access -",7.8
+Cecil Hotel,Barcelona,2,AT_0013_018,89,Triple,"Psiri, Athens - 0.8 km - Metro access -",7.8
+Cecil Hotel,Barcelona,2,AT_0013_019,89,Triple,"Psiri, Athens - 0.8 km - Metro access -",7.8
+Cecil Hotel,Barcelona,2,AT_0013_020,89,Triple,"Psiri, Athens - 0.8 km - Metro access -",7.8
+Central Hotel,Barcelona,3,AT_0014_000,152,Double,"Plaka, Athens - 350 m - Metro access -",8.5
+Central Hotel,Barcelona,3,AT_0014_001,152,Double,"Plaka, Athens - 350 m - Metro access -",8.5
+Central Hotel,Barcelona,3,AT_0014_002,152,Double,"Plaka, Athens - 350 m - Metro access -",8.5
+Central Hotel,Barcelona,3,AT_0014_003,152,Double,"Plaka, Athens - 350 m - Metro access -",8.5
+Central Hotel,Barcelona,3,AT_0014_004,152,Double,"Plaka, Athens - 350 m - Metro access -",8.5
+Central Hotel,Barcelona,3,AT_0014_005,152,Double,"Plaka, Athens - 350 m - Metro access -",8.5
+Central Hotel,Barcelona,3,AT_0014_006,152,Double,"Plaka, Athens - 350 m - Metro access -",8.5
+Central Hotel,Barcelona,3,AT_0014_007,152,Double,"Plaka, Athens - 350 m - Metro access -",8.5
+Central Hotel,Barcelona,3,AT_0014_008,152,Double,"Plaka, Athens - 350 m - Metro access -",8.5
+Central Hotel,Barcelona,3,AT_0014_009,152,Double,"Plaka, Athens - 350 m - Metro access -",8.5
+Central Hotel,Barcelona,3,AT_0014_010,152,Double,"Plaka, Athens - 350 m - Metro access -",8.5
+Central Hotel,Barcelona,3,AT_0014_011,152,Double,"Plaka, Athens - 350 m - Metro access -",8.5
+Central Hotel,Barcelona,3,AT_0014_012,152,Double,"Plaka, Athens - 350 m - Metro access -",8.5
+Central Hotel,Barcelona,3,AT_0014_013,152,Double,"Plaka, Athens - 350 m - Metro access -",8.5
+Central Hotel,Barcelona,3,AT_0014_014,152,Double,"Plaka, Athens - 350 m - Metro access -",8.5
+Central Hotel,Barcelona,3,AT_0014_015,152,Double,"Plaka, Athens - 350 m - Metro access -",8.5
+Central Hotel,Barcelona,3,AT_0014_016,162,Triple,"Plaka, Athens - 350 m - Metro access -",8.5
+Central Hotel,Barcelona,3,AT_0014_017,162,Triple,"Plaka, Athens - 350 m - Metro access -",8.5
+Central Hotel,Barcelona,3,AT_0014_018,162,Triple,"Plaka, Athens - 350 m - Metro access -",8.5
+Central Hotel,Barcelona,3,AT_0014_019,162,Triple,"Plaka, Athens - 350 m - Metro access -",8.5
+Central Hotel,Barcelona,3,AT_0014_020,162,Triple,"Plaka, Athens - 350 m - Metro access -",8.5
+Coral Hotel Athens,Barcelona,4,AT_0015_000,130,Double,"Palaio Faliro, Athens - 6.8 km - Beach nearby",8.3
+Coral Hotel Athens,Barcelona,4,AT_0015_001,130,Double,"Palaio Faliro, Athens - 6.8 km - Beach nearby",8.3
+Coral Hotel Athens,Barcelona,4,AT_0015_002,130,Double,"Palaio Faliro, Athens - 6.8 km - Beach nearby",8.3
+Coral Hotel Athens,Barcelona,4,AT_0015_003,130,Double,"Palaio Faliro, Athens - 6.8 km - Beach nearby",8.3
+Coral Hotel Athens,Barcelona,4,AT_0015_004,130,Double,"Palaio Faliro, Athens - 6.8 km - Beach nearby",8.3
+Coral Hotel Athens,Barcelona,4,AT_0015_005,130,Double,"Palaio Faliro, Athens - 6.8 km - Beach nearby",8.3
+Coral Hotel Athens,Barcelona,4,AT_0015_006,130,Double,"Palaio Faliro, Athens - 6.8 km - Beach nearby",8.3
+Coral Hotel Athens,Barcelona,4,AT_0015_007,130,Double,"Palaio Faliro, Athens - 6.8 km - Beach nearby",8.3
+Coral Hotel Athens,Barcelona,4,AT_0015_008,130,Double,"Palaio Faliro, Athens - 6.8 km - Beach nearby",8.3
+Coral Hotel Athens,Barcelona,4,AT_0015_009,130,Double,"Palaio Faliro, Athens - 6.8 km - Beach nearby",8.3
+Coral Hotel Athens,Barcelona,4,AT_0015_010,130,Double,"Palaio Faliro, Athens - 6.8 km - Beach nearby",8.3
+Coral Hotel Athens,Barcelona,4,AT_0015_011,130,Double,"Palaio Faliro, Athens - 6.8 km - Beach nearby",8.3
+Coral Hotel Athens,Barcelona,4,AT_0015_012,130,Double,"Palaio Faliro, Athens - 6.8 km - Beach nearby",8.3
+Coral Hotel Athens,Barcelona,4,AT_0015_013,130,Double,"Palaio Faliro, Athens - 6.8 km - Beach nearby",8.3
+Coral Hotel Athens,Barcelona,4,AT_0015_014,130,Double,"Palaio Faliro, Athens - 6.8 km - Beach nearby",8.3
+Coral Hotel Athens,Barcelona,4,AT_0015_015,130,Double,"Palaio Faliro, Athens - 6.8 km - Beach nearby",8.3
+Coral Hotel Athens,Barcelona,4,AT_0015_016,130,Double,"Palaio Faliro, Athens - 6.8 km - Beach nearby",8.3
+Coral Hotel Athens,Barcelona,4,AT_0015_017,130,Double,"Palaio Faliro, Athens - 6.8 km - Beach nearby",8.3
+Coral Hotel Athens,Barcelona,4,AT_0015_018,130,Double,"Palaio Faliro, Athens - 6.8 km - Beach nearby",8.3
+Coral Hotel Athens,Barcelona,4,AT_0015_019,130,Double,"Palaio Faliro, Athens - 6.8 km - Beach nearby",8.3
+Coral Hotel Athens,Barcelona,4,AT_0015_020,130,Double,"Palaio Faliro, Athens - 6.8 km - Beach nearby",8.3
+Coral Hotel Athens,Barcelona,4,AT_0015_021,130,Double,"Palaio Faliro, Athens - 6.8 km - Beach nearby",8.3
+Ederlezi Boutique Hotel,Barcelona,0,AT_0016_000,109,Double,"Psiri, Athens - 1.1 km - Metro access -",9.5
+Ederlezi Boutique Hotel,Barcelona,0,AT_0016_001,109,Double,"Psiri, Athens - 1.1 km - Metro access -",9.5
+Ederlezi Boutique Hotel,Barcelona,0,AT_0016_002,109,Double,"Psiri, Athens - 1.1 km - Metro access -",9.5
+Ederlezi Boutique Hotel,Barcelona,0,AT_0016_003,109,Double,"Psiri, Athens - 1.1 km - Metro access -",9.5
+Ederlezi Boutique Hotel,Barcelona,0,AT_0016_004,109,Double,"Psiri, Athens - 1.1 km - Metro access -",9.5
+Ederlezi Boutique Hotel,Barcelona,0,AT_0016_005,109,Double,"Psiri, Athens - 1.1 km - Metro access -",9.5
+Ederlezi Boutique Hotel,Barcelona,0,AT_0016_006,109,Double,"Psiri, Athens - 1.1 km - Metro access -",9.5
+Ederlezi Boutique Hotel,Barcelona,0,AT_0016_007,109,Double,"Psiri, Athens - 1.1 km - Metro access -",9.5
+Ederlezi Boutique Hotel,Barcelona,0,AT_0016_008,109,Double,"Psiri, Athens - 1.1 km - Metro access -",9.5
+Ederlezi Boutique Hotel,Barcelona,0,AT_0016_009,109,Double,"Psiri, Athens - 1.1 km - Metro access -",9.5
+Ederlezi Boutique Hotel,Barcelona,0,AT_0016_010,109,Double,"Psiri, Athens - 1.1 km - Metro access -",9.5
+Ederlezi Boutique Hotel,Barcelona,0,AT_0016_011,109,Double,"Psiri, Athens - 1.1 km - Metro access -",9.5
+Ederlezi Boutique Hotel,Barcelona,0,AT_0016_012,109,Double,"Psiri, Athens - 1.1 km - Metro access -",9.5
+Ederlezi Boutique Hotel,Barcelona,0,AT_0016_013,109,Double,"Psiri, Athens - 1.1 km - Metro access -",9.5
+Ederlezi Boutique Hotel,Barcelona,0,AT_0016_014,109,Double,"Psiri, Athens - 1.1 km - Metro access -",9.5
+Ederlezi Boutique Hotel,Barcelona,0,AT_0016_015,109,Double,"Psiri, Athens - 1.1 km - Metro access -",9.5
+Ederlezi Boutique Hotel,Barcelona,0,AT_0016_016,109,Double,"Psiri, Athens - 1.1 km - Metro access -",9.5
+Ederlezi Boutique Hotel,Barcelona,0,AT_0016_017,109,Double,"Psiri, Athens - 1.1 km - Metro access -",9.5
+Ederlezi Boutique Hotel,Barcelona,0,AT_0016_018,109,Double,"Psiri, Athens - 1.1 km - Metro access -",9.5
+Ederlezi Boutique Hotel,Barcelona,0,AT_0016_019,109,Double,"Psiri, Athens - 1.1 km - Metro access -",9.5
+Ederlezi Boutique Hotel,Barcelona,0,AT_0016_020,109,Double,"Psiri, Athens - 1.1 km - Metro access -",9.5
+Ederlezi Boutique Hotel,Barcelona,0,AT_0016_021,109,Double,"Psiri, Athens - 1.1 km - Metro access -",9.5
+Ederlezi Boutique Hotel,Barcelona,0,AT_0016_022,109,Double,"Psiri, Athens - 1.1 km - Metro access -",9.5
+Electra Metropolis,Barcelona,5,AT_0017_000,260,Double,"Plaka, Athens - 250 m - Metro access -",9.1
+Electra Metropolis,Barcelona,5,AT_0017_001,260,Double,"Plaka, Athens - 250 m - Metro access -",9.1
+Electra Metropolis,Barcelona,5,AT_0017_002,260,Double,"Plaka, Athens - 250 m - Metro access -",9.1
+Electra Metropolis,Barcelona,5,AT_0017_003,260,Double,"Plaka, Athens - 250 m - Metro access -",9.1
+Electra Metropolis,Barcelona,5,AT_0017_004,260,Double,"Plaka, Athens - 250 m - Metro access -",9.1
+Electra Metropolis,Barcelona,5,AT_0017_005,260,Double,"Plaka, Athens - 250 m - Metro access -",9.1
+Electra Metropolis,Barcelona,5,AT_0017_006,260,Double,"Plaka, Athens - 250 m - Metro access -",9.1
+Electra Metropolis,Barcelona,5,AT_0017_007,260,Double,"Plaka, Athens - 250 m - Metro access -",9.1
+Electra Metropolis,Barcelona,5,AT_0017_008,260,Double,"Plaka, Athens - 250 m - Metro access -",9.1
+Electra Metropolis,Barcelona,5,AT_0017_009,260,Double,"Plaka, Athens - 250 m - Metro access -",9.1
+Electra Metropolis,Barcelona,5,AT_0017_010,260,Double,"Plaka, Athens - 250 m - Metro access -",9.1
+Electra Metropolis,Barcelona,5,AT_0017_011,260,Double,"Plaka, Athens - 250 m - Metro access -",9.1
+Electra Metropolis,Barcelona,5,AT_0017_012,260,Double,"Plaka, Athens - 250 m - Metro access -",9.1
+Electra Metropolis,Barcelona,5,AT_0017_013,260,Double,"Plaka, Athens - 250 m - Metro access -",9.1
+Electra Metropolis,Barcelona,5,AT_0017_014,260,Double,"Plaka, Athens - 250 m - Metro access -",9.1
+Electra Metropolis,Barcelona,5,AT_0017_015,260,Double,"Plaka, Athens - 250 m - Metro access -",9.1
+Electra Metropolis,Barcelona,5,AT_0017_016,260,Double,"Plaka, Athens - 250 m - Metro access -",9.1
+Electra Metropolis,Barcelona,5,AT_0017_017,260,Double,"Plaka, Athens - 250 m - Metro access -",9.1
+Electra Metropolis,Barcelona,5,AT_0017_018,260,Double,"Plaka, Athens - 250 m - Metro access -",9.1
+Electra Metropolis,Barcelona,5,AT_0017_019,297,Triple,"Plaka, Athens - 250 m - Metro access -",9.1
+Electra Metropolis,Barcelona,5,AT_0017_020,297,Triple,"Plaka, Athens - 250 m - Metro access -",9.1
+Electra Metropolis,Barcelona,5,AT_0017_021,297,Triple,"Plaka, Athens - 250 m - Metro access -",9.1
+Electra Metropolis,Barcelona,5,AT_0017_022,297,Triple,"Plaka, Athens - 250 m - Metro access -",9.1
+Electra Metropolis,Barcelona,5,AT_0017_023,297,Triple,"Plaka, Athens - 250 m - Metro access -",9.1
+Electra Metropolis,Barcelona,5,AT_0017_024,297,Triple,"Plaka, Athens - 250 m - Metro access -",9.1
+Electra Metropolis,Barcelona,5,AT_0017_025,297,Triple,"Plaka, Athens - 250 m - Metro access -",9.1
+Electra Palace Athens,Barcelona,5,AT_0018_000,245,Double,"Plaka, Athens - 350 m - Metro access -",8.9
+Electra Palace Athens,Barcelona,5,AT_0018_001,245,Double,"Plaka, Athens - 350 m - Metro access -",8.9
+Electra Palace Athens,Barcelona,5,AT_0018_002,245,Double,"Plaka, Athens - 350 m - Metro access -",8.9
+Electra Palace Athens,Barcelona,5,AT_0018_003,245,Double,"Plaka, Athens - 350 m - Metro access -",8.9
+Electra Palace Athens,Barcelona,5,AT_0018_004,245,Double,"Plaka, Athens - 350 m - Metro access -",8.9
+Electra Palace Athens,Barcelona,5,AT_0018_005,245,Double,"Plaka, Athens - 350 m - Metro access -",8.9
+Electra Palace Athens,Barcelona,5,AT_0018_006,245,Double,"Plaka, Athens - 350 m - Metro access -",8.9
+Electra Palace Athens,Barcelona,5,AT_0018_007,245,Double,"Plaka, Athens - 350 m - Metro access -",8.9
+Electra Palace Athens,Barcelona,5,AT_0018_008,245,Double,"Plaka, Athens - 350 m - Metro access -",8.9
+Electra Palace Athens,Barcelona,5,AT_0018_009,245,Double,"Plaka, Athens - 350 m - Metro access -",8.9
+Electra Palace Athens,Barcelona,5,AT_0018_010,245,Double,"Plaka, Athens - 350 m - Metro access -",8.9
+Electra Palace Athens,Barcelona,5,AT_0018_011,245,Double,"Plaka, Athens - 350 m - Metro access -",8.9
+Electra Palace Athens,Barcelona,5,AT_0018_012,245,Double,"Plaka, Athens - 350 m - Metro access -",8.9
+Electra Palace Athens,Barcelona,5,AT_0018_013,245,Double,"Plaka, Athens - 350 m - Metro access -",8.9
+Electra Palace Athens,Barcelona,5,AT_0018_014,245,Double,"Plaka, Athens - 350 m - Metro access -",8.9
+Electra Palace Athens,Barcelona,5,AT_0018_015,245,Double,"Plaka, Athens - 350 m - Metro access -",8.9
+Electra Palace Athens,Barcelona,5,AT_0018_016,245,Double,"Plaka, Athens - 350 m - Metro access -",8.9
+Electra Palace Athens,Barcelona,5,AT_0018_017,245,Double,"Plaka, Athens - 350 m - Metro access -",8.9
+Electra Palace Athens,Barcelona,5,AT_0018_018,245,Double,"Plaka, Athens - 350 m - Metro access -",8.9
+Electra Palace Athens,Barcelona,5,AT_0018_019,245,Double,"Plaka, Athens - 350 m - Metro access -",8.9
+Electra Palace Athens,Barcelona,5,AT_0018_020,245,Double,"Plaka, Athens - 350 m - Metro access -",8.9
+Electra Palace Athens,Barcelona,5,AT_0018_021,217,Single ,"Plaka, Athens - 350 m - Metro access -",8.9
+Electra Palace Athens,Barcelona,5,AT_0018_022,217,Single ,"Plaka, Athens - 350 m - Metro access -",8.9
+Electra Palace Athens,Barcelona,5,AT_0018_023,217,Single ,"Plaka, Athens - 350 m - Metro access -",8.9
+Electra Palace Athens,Barcelona,5,AT_0018_024,217,Single ,"Plaka, Athens - 350 m - Metro access -",8.9
+Electra Palace Athens,Barcelona,5,AT_0018_025,291,Triple,"Plaka, Athens - 350 m - Metro access -",8.9
+Electra Palace Athens,Barcelona,5,AT_0018_026,291,Triple,"Plaka, Athens - 350 m - Metro access -",8.9
+Electra Palace Athens,Barcelona,5,AT_0018_027,291,Triple,"Plaka, Athens - 350 m - Metro access -",8.9
+Evripides Hotel,Barcelona,2,AT_0019_000,81,Double,"Psiri, Athens - 1.1 km - Metro access -",8.5
+Evripides Hotel,Barcelona,2,AT_0019_001,81,Double,"Psiri, Athens - 1.1 km - Metro access -",8.5
+Evripides Hotel,Barcelona,2,AT_0019_002,81,Double,"Psiri, Athens - 1.1 km - Metro access -",8.5
+Evripides Hotel,Barcelona,2,AT_0019_003,81,Double,"Psiri, Athens - 1.1 km - Metro access -",8.5
+Evripides Hotel,Barcelona,2,AT_0019_004,81,Double,"Psiri, Athens - 1.1 km - Metro access -",8.5
+Evripides Hotel,Barcelona,2,AT_0019_005,81,Double,"Psiri, Athens - 1.1 km - Metro access -",8.5
+Evripides Hotel,Barcelona,2,AT_0019_006,81,Double,"Psiri, Athens - 1.1 km - Metro access -",8.5
+Evripides Hotel,Barcelona,2,AT_0019_007,81,Double,"Psiri, Athens - 1.1 km - Metro access -",8.5
+Evripides Hotel,Barcelona,2,AT_0019_008,81,Double,"Psiri, Athens - 1.1 km - Metro access -",8.5
+Evripides Hotel,Barcelona,2,AT_0019_009,81,Double,"Psiri, Athens - 1.1 km - Metro access -",8.5
+Evripides Hotel,Barcelona,2,AT_0019_010,81,Double,"Psiri, Athens - 1.1 km - Metro access -",8.5
+Evripides Hotel,Barcelona,2,AT_0019_011,81,Double,"Psiri, Athens - 1.1 km - Metro access -",8.5
+Evripides Hotel,Barcelona,2,AT_0019_012,81,Double,"Psiri, Athens - 1.1 km - Metro access -",8.5
+Evripides Hotel,Barcelona,2,AT_0019_013,81,Double,"Psiri, Athens - 1.1 km - Metro access -",8.5
+Evripides Hotel,Barcelona,2,AT_0019_014,81,Double,"Psiri, Athens - 1.1 km - Metro access -",8.5
+Evripides Hotel,Barcelona,2,AT_0019_015,81,Double,"Psiri, Athens - 1.1 km - Metro access -",8.5
+Evripides Hotel,Barcelona,2,AT_0019_016,81,Double,"Psiri, Athens - 1.1 km - Metro access -",8.5
+Evripides Hotel,Barcelona,2,AT_0019_017,81,Double,"Psiri, Athens - 1.1 km - Metro access -",8.5
+Evripides Hotel,Barcelona,2,AT_0019_018,81,Double,"Psiri, Athens - 1.1 km - Metro access -",8.5
+Evripides Hotel,Barcelona,2,AT_0019_019,81,Double,"Psiri, Athens - 1.1 km - Metro access -",8.5
+Evripides Hotel,Barcelona,2,AT_0019_020,81,Double,"Psiri, Athens - 1.1 km - Metro access -",8.5
+Evripides Hotel,Barcelona,2,AT_0019_021,81,Double,"Psiri, Athens - 1.1 km - Metro access -",8.5
+Evripides Hotel,Barcelona,2,AT_0019_022,81,Double,"Psiri, Athens - 1.1 km - Metro access -",8.5
+Evripides Hotel,Barcelona,2,AT_0019_023,81,Double,"Psiri, Athens - 1.1 km - Metro access -",8.5
+Evripides Hotel,Barcelona,2,AT_0019_024,81,Double,"Psiri, Athens - 1.1 km - Metro access -",8.5
+Evripides Hotel,Barcelona,2,AT_0019_025,91,Triple,"Psiri, Athens - 1.1 km - Metro access -",8.5
+Evripides Hotel,Barcelona,2,AT_0019_026,91,Triple,"Psiri, Athens - 1.1 km - Metro access -",8.5
+Evripides Hotel,Barcelona,2,AT_0019_027,91,Triple,"Psiri, Athens - 1.1 km - Metro access -",8.5
+Evripides Hotel,Barcelona,2,AT_0019_028,91,Triple,"Psiri, Athens - 1.1 km - Metro access -",8.5
+Hotel London,Barcelona,3,AT_0020_000,59,Double,"Glyfada, Athens - 11.9 km -",8.1
+Hotel London,Barcelona,3,AT_0020_001,59,Double,"Glyfada, Athens - 11.9 km -",8.1
+Hotel London,Barcelona,3,AT_0020_002,59,Double,"Glyfada, Athens - 11.9 km -",8.1
+Hotel London,Barcelona,3,AT_0020_003,59,Double,"Glyfada, Athens - 11.9 km -",8.1
+Hotel London,Barcelona,3,AT_0020_004,59,Double,"Glyfada, Athens - 11.9 km -",8.1
+Hotel London,Barcelona,3,AT_0020_005,59,Double,"Glyfada, Athens - 11.9 km -",8.1
+Hotel London,Barcelona,3,AT_0020_006,59,Double,"Glyfada, Athens - 11.9 km -",8.1
+Hotel London,Barcelona,3,AT_0020_007,59,Double,"Glyfada, Athens - 11.9 km -",8.1
+Hotel London,Barcelona,3,AT_0020_008,59,Double,"Glyfada, Athens - 11.9 km -",8.1
+Hotel London,Barcelona,3,AT_0020_009,59,Double,"Glyfada, Athens - 11.9 km -",8.1
+Hotel London,Barcelona,3,AT_0020_010,59,Double,"Glyfada, Athens - 11.9 km -",8.1
+Hotel London,Barcelona,3,AT_0020_011,59,Double,"Glyfada, Athens - 11.9 km -",8.1
+Hotel London,Barcelona,3,AT_0020_012,59,Double,"Glyfada, Athens - 11.9 km -",8.1
+Hotel London,Barcelona,3,AT_0020_013,59,Double,"Glyfada, Athens - 11.9 km -",8.1
+Hotel London,Barcelona,3,AT_0020_014,59,Double,"Glyfada, Athens - 11.9 km -",8.1
+Hotel London,Barcelona,3,AT_0020_015,59,Double,"Glyfada, Athens - 11.9 km -",8.1
+Hotel London,Barcelona,3,AT_0020_016,59,Double,"Glyfada, Athens - 11.9 km -",8.1
+Hotel London,Barcelona,3,AT_0020_017,59,Double,"Glyfada, Athens - 11.9 km -",8.1
+Hotel London,Barcelona,3,AT_0020_018,59,Double,"Glyfada, Athens - 11.9 km -",8.1
+Hotel London,Barcelona,3,AT_0020_019,59,Double,"Glyfada, Athens - 11.9 km -",8.1
+Hotel London,Barcelona,3,AT_0020_020,59,Double,"Glyfada, Athens - 11.9 km -",8.1
+Hotel London,Barcelona,3,AT_0020_021,59,Double,"Glyfada, Athens - 11.9 km -",8.1
+Hotel London,Barcelona,3,AT_0020_022,59,Double,"Glyfada, Athens - 11.9 km -",8.1
+Hotel London,Barcelona,3,AT_0020_023,59,Double,"Glyfada, Athens - 11.9 km -",8.1
+Hotel London,Barcelona,3,AT_0020_024,59,Double,"Glyfada, Athens - 11.9 km -",8.1
+Hotel London,Barcelona,3,AT_0020_025,63,Triple,"Glyfada, Athens - 11.9 km -",8.1
+Hotel London,Barcelona,3,AT_0020_026,63,Triple,"Glyfada, Athens - 11.9 km -",8.1
+Hotel London,Barcelona,3,AT_0020_027,63,Triple,"Glyfada, Athens - 11.9 km -",8.1
+Hotel London,Barcelona,3,AT_0020_028,63,Triple,"Glyfada, Athens - 11.9 km -",8.1
+Hotel Lozenge,Barcelona,4,AT_0021_000,141,Double,"Syntagma, Athens - 300 m - Metro access -",9.2
+Hotel Lozenge,Barcelona,4,AT_0021_001,141,Double,"Syntagma, Athens - 300 m - Metro access -",9.2
+Hotel Lozenge,Barcelona,4,AT_0021_002,141,Double,"Syntagma, Athens - 300 m - Metro access -",9.2
+Hotel Lozenge,Barcelona,4,AT_0021_003,141,Double,"Syntagma, Athens - 300 m - Metro access -",9.2
+Hotel Lozenge,Barcelona,4,AT_0021_004,141,Double,"Syntagma, Athens - 300 m - Metro access -",9.2
+Hotel Lozenge,Barcelona,4,AT_0021_005,141,Double,"Syntagma, Athens - 300 m - Metro access -",9.2
+Hotel Lozenge,Barcelona,4,AT_0021_006,141,Double,"Syntagma, Athens - 300 m - Metro access -",9.2
+Hotel Lozenge,Barcelona,4,AT_0021_007,141,Double,"Syntagma, Athens - 300 m - Metro access -",9.2
+Hotel Lozenge,Barcelona,4,AT_0021_008,141,Double,"Syntagma, Athens - 300 m - Metro access -",9.2
+Hotel Lozenge,Barcelona,4,AT_0021_009,141,Double,"Syntagma, Athens - 300 m - Metro access -",9.2
+Hotel Lozenge,Barcelona,4,AT_0021_010,141,Double,"Syntagma, Athens - 300 m - Metro access -",9.2
+Hotel Lozenge,Barcelona,4,AT_0021_011,141,Double,"Syntagma, Athens - 300 m - Metro access -",9.2
+Hotel Lozenge,Barcelona,4,AT_0021_012,254,Triple,"Syntagma, Athens - 300 m - Metro access -",9.2
+Hotel Lozenge,Barcelona,4,AT_0021_013,254,Triple,"Syntagma, Athens - 300 m - Metro access -",9.2
+Hotel Lozenge,Barcelona,4,AT_0021_014,254,Triple,"Syntagma, Athens - 300 m - Metro access -",9.2
+Hotel Lozenge,Barcelona,4,AT_0021_015,254,Triple,"Syntagma, Athens - 300 m - Metro access -",9.2
+Hotel Lozenge,Barcelona,4,AT_0021_016,254,Triple,"Syntagma, Athens - 300 m - Metro access -",9.2
+Hotel Lozenge,Barcelona,4,AT_0021_017,254,Triple,"Syntagma, Athens - 300 m - Metro access -",9.2
+Hotel Lozenge,Barcelona,4,AT_0021_018,254,Triple,"Syntagma, Athens - 300 m - Metro access -",9.2
+Hotel Lozenge,Barcelona,4,AT_0021_019,254,Triple,"Syntagma, Athens - 300 m - Metro access -",9.2
+Hotel Lozenge,Barcelona,4,AT_0021_020,254,Triple,"Syntagma, Athens - 300 m - Metro access -",9.2
+Metropolis Hotel,Barcelona,2,AT_0022_000,92,Double,"Plaka, Athens - 350 m - Metro access -",8.1
+Metropolis Hotel,Barcelona,2,AT_0022_001,92,Double,"Plaka, Athens - 350 m - Metro access -",8.1
+Metropolis Hotel,Barcelona,2,AT_0022_002,92,Double,"Plaka, Athens - 350 m - Metro access -",8.1
+Metropolis Hotel,Barcelona,2,AT_0022_003,92,Double,"Plaka, Athens - 350 m - Metro access -",8.1
+Metropolis Hotel,Barcelona,2,AT_0022_004,92,Double,"Plaka, Athens - 350 m - Metro access -",8.1
+Metropolis Hotel,Barcelona,2,AT_0022_005,92,Double,"Plaka, Athens - 350 m - Metro access -",8.1
+Metropolis Hotel,Barcelona,2,AT_0022_006,92,Double,"Plaka, Athens - 350 m - Metro access -",8.1
+Metropolis Hotel,Barcelona,2,AT_0022_007,92,Double,"Plaka, Athens - 350 m - Metro access -",8.1
+Metropolis Hotel,Barcelona,2,AT_0022_008,92,Double,"Plaka, Athens - 350 m - Metro access -",8.1
+Metropolis Hotel,Barcelona,2,AT_0022_009,92,Double,"Plaka, Athens - 350 m - Metro access -",8.1
+Metropolis Hotel,Barcelona,2,AT_0022_010,92,Double,"Plaka, Athens - 350 m - Metro access -",8.1
+Metropolis Hotel,Barcelona,2,AT_0022_011,92,Double,"Plaka, Athens - 350 m - Metro access -",8.1
+Metropolis Hotel,Barcelona,2,AT_0022_012,92,Double,"Plaka, Athens - 350 m - Metro access -",8.1
+Metropolis Hotel,Barcelona,2,AT_0022_013,92,Double,"Plaka, Athens - 350 m - Metro access -",8.1
+Metropolis Hotel,Barcelona,2,AT_0022_014,92,Double,"Plaka, Athens - 350 m - Metro access -",8.1
+Metropolis Hotel,Barcelona,2,AT_0022_015,92,Double,"Plaka, Athens - 350 m - Metro access -",8.1
+Metropolis Hotel,Barcelona,2,AT_0022_016,92,Double,"Plaka, Athens - 350 m - Metro access -",8.1
+Metropolis Hotel,Barcelona,2,AT_0022_017,92,Double,"Plaka, Athens - 350 m - Metro access -",8.1
+Metropolis Hotel,Barcelona,2,AT_0022_018,92,Double,"Plaka, Athens - 350 m - Metro access -",8.1
+Metropolis Hotel,Barcelona,2,AT_0022_019,92,Double,"Plaka, Athens - 350 m - Metro access -",8.1
+Metropolis Hotel,Barcelona,2,AT_0022_020,92,Double,"Plaka, Athens - 350 m - Metro access -",8.1
+Metropolis Hotel,Barcelona,2,AT_0022_021,92,Double,"Plaka, Athens - 350 m - Metro access -",8.1
+Metropolis Hotel,Barcelona,2,AT_0022_022,92,Double,"Plaka, Athens - 350 m - Metro access -",8.1
+Metropolis Hotel,Barcelona,2,AT_0022_023,92,Double,"Plaka, Athens - 350 m - Metro access -",8.1
+Metropolis Hotel,Barcelona,2,AT_0022_024,139,Triple,"Plaka, Athens - 350 m - Metro access -",8.1
+Metropolis Hotel,Barcelona,2,AT_0022_025,139,Triple,"Plaka, Athens - 350 m - Metro access -",8.1
+Metropolis Hotel,Barcelona,2,AT_0022_026,139,Triple,"Plaka, Athens - 350 m - Metro access -",8.1
+Metropolis Hotel,Barcelona,2,AT_0022_027,139,Triple,"Plaka, Athens - 350 m - Metro access -",8.1
+Metropolis Hotel,Barcelona,2,AT_0022_028,139,Triple,"Plaka, Athens - 350 m - Metro access -",8.1
+Metropolis Hotel,Barcelona,2,AT_0022_029,139,Triple,"Plaka, Athens - 350 m - Metro access -",8.1
+NLH KERAMEIKOS - Neighborhood Lifestyle Hotels,Barcelona,3,AT_0023_000,102,Double,"Psiri, Athens - 1.3 km - Metro access -",9.4
+NLH KERAMEIKOS - Neighborhood Lifestyle Hotels,Barcelona,3,AT_0023_001,102,Double,"Psiri, Athens - 1.3 km - Metro access -",9.4
+NLH KERAMEIKOS - Neighborhood Lifestyle Hotels,Barcelona,3,AT_0023_002,102,Double,"Psiri, Athens - 1.3 km - Metro access -",9.4
+NLH KERAMEIKOS - Neighborhood Lifestyle Hotels,Barcelona,3,AT_0023_003,102,Double,"Psiri, Athens - 1.3 km - Metro access -",9.4
+NLH KERAMEIKOS - Neighborhood Lifestyle Hotels,Barcelona,3,AT_0023_004,102,Double,"Psiri, Athens - 1.3 km - Metro access -",9.4
+NLH KERAMEIKOS - Neighborhood Lifestyle Hotels,Barcelona,3,AT_0023_005,102,Double,"Psiri, Athens - 1.3 km - Metro access -",9.4
+NLH KERAMEIKOS - Neighborhood Lifestyle Hotels,Barcelona,3,AT_0023_006,102,Double,"Psiri, Athens - 1.3 km - Metro access -",9.4
+NLH KERAMEIKOS - Neighborhood Lifestyle Hotels,Barcelona,3,AT_0023_007,102,Double,"Psiri, Athens - 1.3 km - Metro access -",9.4
+NLH KERAMEIKOS - Neighborhood Lifestyle Hotels,Barcelona,3,AT_0023_008,102,Double,"Psiri, Athens - 1.3 km - Metro access -",9.4
+NLH KERAMEIKOS - Neighborhood Lifestyle Hotels,Barcelona,3,AT_0023_009,102,Double,"Psiri, Athens - 1.3 km - Metro access -",9.4
+NLH KERAMEIKOS - Neighborhood Lifestyle Hotels,Barcelona,3,AT_0023_010,102,Double,"Psiri, Athens - 1.3 km - Metro access -",9.4
+NLH KERAMEIKOS - Neighborhood Lifestyle Hotels,Barcelona,3,AT_0023_011,102,Double,"Psiri, Athens - 1.3 km - Metro access -",9.4
+NLH KERAMEIKOS - Neighborhood Lifestyle Hotels,Barcelona,3,AT_0023_012,102,Double,"Psiri, Athens - 1.3 km - Metro access -",9.4
+NLH KERAMEIKOS - Neighborhood Lifestyle Hotels,Barcelona,3,AT_0023_013,102,Double,"Psiri, Athens - 1.3 km - Metro access -",9.4
+NLH KERAMEIKOS - Neighborhood Lifestyle Hotels,Barcelona,3,AT_0023_014,102,Double,"Psiri, Athens - 1.3 km - Metro access -",9.4
+NLH KERAMEIKOS - Neighborhood Lifestyle Hotels,Barcelona,3,AT_0023_015,102,Double,"Psiri, Athens - 1.3 km - Metro access -",9.4
+NLH KERAMEIKOS - Neighborhood Lifestyle Hotels,Barcelona,3,AT_0023_016,102,Double,"Psiri, Athens - 1.3 km - Metro access -",9.4
+NLH KERAMEIKOS - Neighborhood Lifestyle Hotels,Barcelona,3,AT_0023_017,102,Double,"Psiri, Athens - 1.3 km - Metro access -",9.4
+NLH KERAMEIKOS - Neighborhood Lifestyle Hotels,Barcelona,3,AT_0023_018,102,Double,"Psiri, Athens - 1.3 km - Metro access -",9.4
+NLH KERAMEIKOS - Neighborhood Lifestyle Hotels,Barcelona,3,AT_0023_019,102,Double,"Psiri, Athens - 1.3 km - Metro access -",9.4
+NLH KERAMEIKOS - Neighborhood Lifestyle Hotels,Barcelona,3,AT_0023_020,102,Double,"Psiri, Athens - 1.3 km - Metro access -",9.4
+NLH KERAMEIKOS - Neighborhood Lifestyle Hotels,Barcelona,3,AT_0023_021,102,Double,"Psiri, Athens - 1.3 km - Metro access -",9.4
+NLH KERAMEIKOS - Neighborhood Lifestyle Hotels,Barcelona,3,AT_0023_022,102,Double,"Psiri, Athens - 1.3 km - Metro access -",9.4
+NLH KERAMEIKOS - Neighborhood Lifestyle Hotels,Barcelona,3,AT_0023_023,102,Double,"Psiri, Athens - 1.3 km - Metro access -",9.4
+NLH KERAMEIKOS - Neighborhood Lifestyle Hotels,Barcelona,3,AT_0023_024,102,Double,"Psiri, Athens - 1.3 km - Metro access -",9.4
+NLH KERAMEIKOS - Neighborhood Lifestyle Hotels,Barcelona,3,AT_0023_025,102,Double,"Psiri, Athens - 1.3 km - Metro access -",9.4
+Omiros Hotel,Barcelona,3,AT_0024_000,86,Double,"Plaka, Athens - 300 m - Metro access -",7.9
+Omiros Hotel,Barcelona,3,AT_0024_001,86,Double,"Plaka, Athens - 300 m - Metro access -",7.9
+Omiros Hotel,Barcelona,3,AT_0024_002,86,Double,"Plaka, Athens - 300 m - Metro access -",7.9
+Omiros Hotel,Barcelona,3,AT_0024_003,86,Double,"Plaka, Athens - 300 m - Metro access -",7.9
+Omiros Hotel,Barcelona,3,AT_0024_004,86,Double,"Plaka, Athens - 300 m - Metro access -",7.9
+Omiros Hotel,Barcelona,3,AT_0024_005,86,Double,"Plaka, Athens - 300 m - Metro access -",7.9
+Omiros Hotel,Barcelona,3,AT_0024_006,86,Double,"Plaka, Athens - 300 m - Metro access -",7.9
+Omiros Hotel,Barcelona,3,AT_0024_007,86,Double,"Plaka, Athens - 300 m - Metro access -",7.9
+Omiros Hotel,Barcelona,3,AT_0024_008,86,Double,"Plaka, Athens - 300 m - Metro access -",7.9
+Omiros Hotel,Barcelona,3,AT_0024_009,86,Double,"Plaka, Athens - 300 m - Metro access -",7.9
+Omiros Hotel,Barcelona,3,AT_0024_010,86,Double,"Plaka, Athens - 300 m - Metro access -",7.9
+Omiros Hotel,Barcelona,3,AT_0024_011,86,Double,"Plaka, Athens - 300 m - Metro access -",7.9
+Omiros Hotel,Barcelona,3,AT_0024_012,86,Double,"Plaka, Athens - 300 m - Metro access -",7.9
+Omiros Hotel,Barcelona,3,AT_0024_013,86,Double,"Plaka, Athens - 300 m - Metro access -",7.9
+Omiros Hotel,Barcelona,3,AT_0024_014,86,Double,"Plaka, Athens - 300 m - Metro access -",7.9
+Omiros Hotel,Barcelona,3,AT_0024_015,86,Double,"Plaka, Athens - 300 m - Metro access -",7.9
+Omiros Hotel,Barcelona,3,AT_0024_016,86,Double,"Plaka, Athens - 300 m - Metro access -",7.9
+Omiros Hotel,Barcelona,3,AT_0024_017,86,Double,"Plaka, Athens - 300 m - Metro access -",7.9
+Omiros Hotel,Barcelona,3,AT_0024_018,86,Double,"Plaka, Athens - 300 m - Metro access -",7.9
+Omiros Hotel,Barcelona,3,AT_0024_019,86,Double,"Plaka, Athens - 300 m - Metro access -",7.9
+Omiros Hotel,Barcelona,3,AT_0024_020,62,Single ,"Plaka, Athens - 300 m - Metro access -",7.9
+Omiros Hotel,Barcelona,3,AT_0024_021,62,Single ,"Plaka, Athens - 300 m - Metro access -",7.9
+Omiros Hotel,Barcelona,3,AT_0024_022,62,Single ,"Plaka, Athens - 300 m - Metro access -",7.9
+Omiros Hotel,Barcelona,3,AT_0024_023,62,Single ,"Plaka, Athens - 300 m - Metro access -",7.9
+Omiros Hotel,Barcelona,3,AT_0024_024,62,Single ,"Plaka, Athens - 300 m - Metro access -",7.9
+Omiros Hotel,Barcelona,3,AT_0024_025,98,Triple,"Plaka, Athens - 300 m - Metro access -",7.9
+Omiros Hotel,Barcelona,3,AT_0024_026,98,Triple,"Plaka, Athens - 300 m - Metro access -",7.9
+Omiros Hotel,Barcelona,3,AT_0024_027,98,Triple,"Plaka, Athens - 300 m - Metro access -",7.9
+Omiros Hotel,Barcelona,3,AT_0024_028,98,Triple,"Plaka, Athens - 300 m - Metro access -",7.9
+Omiros Hotel,Barcelona,3,AT_0024_029,98,Triple,"Plaka, Athens - 300 m - Metro access -",7.9
+Tempi Hotel,Barcelona,1,AT_0025_000,45,Double,"Monastiraki, Athens - 0.7 km - Metro access -",8.1
+Tempi Hotel,Barcelona,1,AT_0025_001,45,Double,"Monastiraki, Athens - 0.7 km - Metro access -",8.1
+Tempi Hotel,Barcelona,1,AT_0025_002,45,Double,"Monastiraki, Athens - 0.7 km - Metro access -",8.1
+Tempi Hotel,Barcelona,1,AT_0025_003,45,Double,"Monastiraki, Athens - 0.7 km - Metro access -",8.1
+Tempi Hotel,Barcelona,1,AT_0025_004,45,Double,"Monastiraki, Athens - 0.7 km - Metro access -",8.1
+Tempi Hotel,Barcelona,1,AT_0025_005,45,Double,"Monastiraki, Athens - 0.7 km - Metro access -",8.1
+Tempi Hotel,Barcelona,1,AT_0025_006,45,Double,"Monastiraki, Athens - 0.7 km - Metro access -",8.1
+Tempi Hotel,Barcelona,1,AT_0025_007,45,Double,"Monastiraki, Athens - 0.7 km - Metro access -",8.1
+Tempi Hotel,Barcelona,1,AT_0025_008,45,Double,"Monastiraki, Athens - 0.7 km - Metro access -",8.1
+Tempi Hotel,Barcelona,1,AT_0025_009,45,Double,"Monastiraki, Athens - 0.7 km - Metro access -",8.1
+Tempi Hotel,Barcelona,1,AT_0025_010,45,Double,"Monastiraki, Athens - 0.7 km - Metro access -",8.1
+Tempi Hotel,Barcelona,1,AT_0025_011,45,Double,"Monastiraki, Athens - 0.7 km - Metro access -",8.1
+Tempi Hotel,Barcelona,1,AT_0025_012,45,Double,"Monastiraki, Athens - 0.7 km - Metro access -",8.1
+Tempi Hotel,Barcelona,1,AT_0025_013,45,Double,"Monastiraki, Athens - 0.7 km - Metro access -",8.1
+Tempi Hotel,Barcelona,1,AT_0025_014,45,Double,"Monastiraki, Athens - 0.7 km - Metro access -",8.1
+Tempi Hotel,Barcelona,1,AT_0025_015,45,Double,"Monastiraki, Athens - 0.7 km - Metro access -",8.1
+Tempi Hotel,Barcelona,1,AT_0025_016,45,Double,"Monastiraki, Athens - 0.7 km - Metro access -",8.1
+Tempi Hotel,Barcelona,1,AT_0025_017,45,Double,"Monastiraki, Athens - 0.7 km - Metro access -",8.1
+Tempi Hotel,Barcelona,1,AT_0025_018,45,Double,"Monastiraki, Athens - 0.7 km - Metro access -",8.1
+Tempi Hotel,Barcelona,1,AT_0025_019,45,Double,"Monastiraki, Athens - 0.7 km - Metro access -",8.1
+Tempi Hotel,Barcelona,1,AT_0025_020,45,Double,"Monastiraki, Athens - 0.7 km - Metro access -",8.1
+Tempi Hotel,Barcelona,1,AT_0025_021,45,Double,"Monastiraki, Athens - 0.7 km - Metro access -",8.1
+Tempi Hotel,Barcelona,1,AT_0025_022,45,Double,"Monastiraki, Athens - 0.7 km - Metro access -",8.1
+Tempi Hotel,Barcelona,1,AT_0025_023,45,Double,"Monastiraki, Athens - 0.7 km - Metro access -",8.1
+Tempi Hotel,Barcelona,1,AT_0025_024,45,Double,"Monastiraki, Athens - 0.7 km - Metro access -",8.1
+Tempi Hotel,Barcelona,1,AT_0025_025,60,Triple,"Monastiraki, Athens - 0.7 km - Metro access -",8.1
+Tempi Hotel,Barcelona,1,AT_0025_026,60,Triple,"Monastiraki, Athens - 0.7 km - Metro access -",8.1
+Tempi Hotel,Barcelona,1,AT_0025_027,60,Triple,"Monastiraki, Athens - 0.7 km - Metro access -",8.1
+Tempi Hotel,Barcelona,1,AT_0025_028,60,Triple,"Monastiraki, Athens - 0.7 km - Metro access -",8.1
+Titania Hotel,Barcelona,4,AT_0026_000,138,Double,"Athens City Centre, Athens - 0.9 km - Metro access -",8.4
+Titania Hotel,Barcelona,4,AT_0026_001,138,Double,"Athens City Centre, Athens - 0.9 km - Metro access -",8.4
+Titania Hotel,Barcelona,4,AT_0026_002,138,Double,"Athens City Centre, Athens - 0.9 km - Metro access -",8.4
+Titania Hotel,Barcelona,4,AT_0026_003,138,Double,"Athens City Centre, Athens - 0.9 km - Metro access -",8.4
+Titania Hotel,Barcelona,4,AT_0026_004,138,Double,"Athens City Centre, Athens - 0.9 km - Metro access -",8.4
+Titania Hotel,Barcelona,4,AT_0026_005,138,Double,"Athens City Centre, Athens - 0.9 km - Metro access -",8.4
+Titania Hotel,Barcelona,4,AT_0026_006,138,Double,"Athens City Centre, Athens - 0.9 km - Metro access -",8.4
+Titania Hotel,Barcelona,4,AT_0026_007,138,Double,"Athens City Centre, Athens - 0.9 km - Metro access -",8.4
+Titania Hotel,Barcelona,4,AT_0026_008,138,Double,"Athens City Centre, Athens - 0.9 km - Metro access -",8.4
+Titania Hotel,Barcelona,4,AT_0026_009,138,Double,"Athens City Centre, Athens - 0.9 km - Metro access -",8.4
+Titania Hotel,Barcelona,4,AT_0026_010,138,Double,"Athens City Centre, Athens - 0.9 km - Metro access -",8.4
+Titania Hotel,Barcelona,4,AT_0026_011,138,Double,"Athens City Centre, Athens - 0.9 km - Metro access -",8.4
+Titania Hotel,Barcelona,4,AT_0026_012,138,Double,"Athens City Centre, Athens - 0.9 km - Metro access -",8.4
+Titania Hotel,Barcelona,4,AT_0026_013,138,Double,"Athens City Centre, Athens - 0.9 km - Metro access -",8.4
+Titania Hotel,Barcelona,4,AT_0026_014,138,Double,"Athens City Centre, Athens - 0.9 km - Metro access -",8.4
+Titania Hotel,Barcelona,4,AT_0026_015,138,Double,"Athens City Centre, Athens - 0.9 km - Metro access -",8.4
+Titania Hotel,Barcelona,4,AT_0026_016,138,Double,"Athens City Centre, Athens - 0.9 km - Metro access -",8.4
+Titania Hotel,Barcelona,4,AT_0026_017,138,Double,"Athens City Centre, Athens - 0.9 km - Metro access -",8.4
+Titania Hotel,Barcelona,4,AT_0026_018,138,Double,"Athens City Centre, Athens - 0.9 km - Metro access -",8.4
+Titania Hotel,Barcelona,4,AT_0026_019,138,Double,"Athens City Centre, Athens - 0.9 km - Metro access -",8.4
+Titania Hotel,Barcelona,4,AT_0026_020,138,Double,"Athens City Centre, Athens - 0.9 km - Metro access -",8.4
+Titania Hotel,Barcelona,4,AT_0026_021,138,Double,"Athens City Centre, Athens - 0.9 km - Metro access -",8.4
+Titania Hotel,Barcelona,4,AT_0026_022,138,Double,"Athens City Centre, Athens - 0.9 km - Metro access -",8.4
+Titania Hotel,Barcelona,4,AT_0026_023,158,Triple,"Athens City Centre, Athens - 0.9 km - Metro access -",8.4
+Titania Hotel,Barcelona,4,AT_0026_024,158,Triple,"Athens City Centre, Athens - 0.9 km - Metro access -",8.4
+Titania Hotel,Barcelona,4,AT_0026_025,158,Triple,"Athens City Centre, Athens - 0.9 km - Metro access -",8.4

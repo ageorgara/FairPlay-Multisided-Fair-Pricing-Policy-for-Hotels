@@ -1,0 +1,657 @@
+Hotel id,City,Stars,Room id,Price,Room Type,Details,Rating
+H10 Casa Mimosa 4* Sup,Barcelona,4,BA_0000_000,193,Double,"Eixample, Barcelona - 1.2 km - Metro access -",9.3
+H10 Casa Mimosa 4* Sup,Barcelona,4,BA_0000_001,193,Double,"Eixample, Barcelona - 1.2 km - Metro access -",9.3
+H10 Casa Mimosa 4* Sup,Barcelona,4,BA_0000_002,193,Double,"Eixample, Barcelona - 1.2 km - Metro access -",9.3
+H10 Casa Mimosa 4* Sup,Barcelona,4,BA_0000_003,193,Double,"Eixample, Barcelona - 1.2 km - Metro access -",9.3
+H10 Casa Mimosa 4* Sup,Barcelona,4,BA_0000_004,193,Double,"Eixample, Barcelona - 1.2 km - Metro access -",9.3
+H10 Casa Mimosa 4* Sup,Barcelona,4,BA_0000_005,193,Double,"Eixample, Barcelona - 1.2 km - Metro access -",9.3
+H10 Casa Mimosa 4* Sup,Barcelona,4,BA_0000_006,193,Double,"Eixample, Barcelona - 1.2 km - Metro access -",9.3
+H10 Casa Mimosa 4* Sup,Barcelona,4,BA_0000_007,193,Double,"Eixample, Barcelona - 1.2 km - Metro access -",9.3
+H10 Casa Mimosa 4* Sup,Barcelona,4,BA_0000_008,193,Double,"Eixample, Barcelona - 1.2 km - Metro access -",9.3
+H10 Casa Mimosa 4* Sup,Barcelona,4,BA_0000_009,193,Double,"Eixample, Barcelona - 1.2 km - Metro access -",9.3
+H10 Casa Mimosa 4* Sup,Barcelona,4,BA_0000_010,193,Double,"Eixample, Barcelona - 1.2 km - Metro access -",9.3
+H10 Casa Mimosa 4* Sup,Barcelona,4,BA_0000_011,193,Double,"Eixample, Barcelona - 1.2 km - Metro access -",9.3
+H10 Casa Mimosa 4* Sup,Barcelona,4,BA_0000_012,193,Double,"Eixample, Barcelona - 1.2 km - Metro access -",9.3
+H10 Casa Mimosa 4* Sup,Barcelona,4,BA_0000_013,193,Double,"Eixample, Barcelona - 1.2 km - Metro access -",9.3
+H10 Casa Mimosa 4* Sup,Barcelona,4,BA_0000_014,193,Double,"Eixample, Barcelona - 1.2 km - Metro access -",9.3
+H10 Casa Mimosa 4* Sup,Barcelona,4,BA_0000_015,193,Double,"Eixample, Barcelona - 1.2 km - Metro access -",9.3
+H10 Casa Mimosa 4* Sup,Barcelona,4,BA_0000_016,193,Double,"Eixample, Barcelona - 1.2 km - Metro access -",9.3
+H10 Casa Mimosa 4* Sup,Barcelona,4,BA_0000_017,193,Double,"Eixample, Barcelona - 1.2 km - Metro access -",9.3
+H10 Casa Mimosa 4* Sup,Barcelona,4,BA_0000_018,193,Double,"Eixample, Barcelona - 1.2 km - Metro access -",9.3
+H10 Casa Mimosa 4* Sup,Barcelona,4,BA_0000_019,193,Double,"Eixample, Barcelona - 1.2 km - Metro access -",9.3
+H10 Casa Mimosa 4* Sup,Barcelona,4,BA_0000_020,193,Double,"Eixample, Barcelona - 1.2 km - Metro access -",9.3
+H10 Casa Mimosa 4* Sup,Barcelona,4,BA_0000_021,193,Double,"Eixample, Barcelona - 1.2 km - Metro access -",9.3
+H10 Casa Mimosa 4* Sup,Barcelona,4,BA_0000_022,193,Double,"Eixample, Barcelona - 1.2 km - Metro access -",9.3
+H10 Casa Mimosa 4* Sup,Barcelona,4,BA_0000_023,193,Double,"Eixample, Barcelona - 1.2 km - Metro access -",9.3
+H10 Casa Mimosa 4* Sup,Barcelona,4,BA_0000_024,193,Double,"Eixample, Barcelona - 1.2 km - Metro access -",9.3
+Occidental Barcelona 1929,Barcelona,3,BA_0001_000,130,Double,"Sants-Montjuïc, Barcelona - 2.3 km - Metro access -",9.3
+Occidental Barcelona 1929,Barcelona,3,BA_0001_001,130,Double,"Sants-Montjuïc, Barcelona - 2.3 km - Metro access -",9.3
+Occidental Barcelona 1929,Barcelona,3,BA_0001_002,130,Double,"Sants-Montjuïc, Barcelona - 2.3 km - Metro access -",9.3
+Occidental Barcelona 1929,Barcelona,3,BA_0001_003,130,Double,"Sants-Montjuïc, Barcelona - 2.3 km - Metro access -",9.3
+Occidental Barcelona 1929,Barcelona,3,BA_0001_004,130,Double,"Sants-Montjuïc, Barcelona - 2.3 km - Metro access -",9.3
+Occidental Barcelona 1929,Barcelona,3,BA_0001_005,130,Double,"Sants-Montjuïc, Barcelona - 2.3 km - Metro access -",9.3
+Occidental Barcelona 1929,Barcelona,3,BA_0001_006,130,Double,"Sants-Montjuïc, Barcelona - 2.3 km - Metro access -",9.3
+Occidental Barcelona 1929,Barcelona,3,BA_0001_007,130,Double,"Sants-Montjuïc, Barcelona - 2.3 km - Metro access -",9.3
+Occidental Barcelona 1929,Barcelona,3,BA_0001_008,130,Double,"Sants-Montjuïc, Barcelona - 2.3 km - Metro access -",9.3
+Occidental Barcelona 1929,Barcelona,3,BA_0001_009,130,Double,"Sants-Montjuïc, Barcelona - 2.3 km - Metro access -",9.3
+Occidental Barcelona 1929,Barcelona,3,BA_0001_010,130,Double,"Sants-Montjuïc, Barcelona - 2.3 km - Metro access -",9.3
+Occidental Barcelona 1929,Barcelona,3,BA_0001_011,130,Double,"Sants-Montjuïc, Barcelona - 2.3 km - Metro access -",9.3
+Occidental Barcelona 1929,Barcelona,3,BA_0001_012,130,Double,"Sants-Montjuïc, Barcelona - 2.3 km - Metro access -",9.3
+Occidental Barcelona 1929,Barcelona,3,BA_0001_013,130,Double,"Sants-Montjuïc, Barcelona - 2.3 km - Metro access -",9.3
+Occidental Barcelona 1929,Barcelona,3,BA_0001_014,130,Double,"Sants-Montjuïc, Barcelona - 2.3 km - Metro access -",9.3
+Occidental Barcelona 1929,Barcelona,3,BA_0001_015,130,Double,"Sants-Montjuïc, Barcelona - 2.3 km - Metro access -",9.3
+Occidental Barcelona 1929,Barcelona,3,BA_0001_016,130,Double,"Sants-Montjuïc, Barcelona - 2.3 km - Metro access -",9.3
+Occidental Barcelona 1929,Barcelona,3,BA_0001_017,130,Double,"Sants-Montjuïc, Barcelona - 2.3 km - Metro access -",9.3
+Occidental Barcelona 1929,Barcelona,3,BA_0001_018,130,Double,"Sants-Montjuïc, Barcelona - 2.3 km - Metro access -",9.3
+Occidental Barcelona 1929,Barcelona,3,BA_0001_019,130,Double,"Sants-Montjuïc, Barcelona - 2.3 km - Metro access -",9.3
+Occidental Barcelona 1929,Barcelona,3,BA_0001_020,130,Double,"Sants-Montjuïc, Barcelona - 2.3 km - Metro access -",9.3
+Occidental Barcelona 1929,Barcelona,3,BA_0001_021,130,Double,"Sants-Montjuïc, Barcelona - 2.3 km - Metro access -",9.3
+Motel One Barcelona-Ciutadella,Barcelona,3,BA_0002_000,120,Double,"Sant Martí, Barcelona - 1.3 km - Metro access - Beach nearby",9.2
+Motel One Barcelona-Ciutadella,Barcelona,3,BA_0002_001,120,Double,"Sant Martí, Barcelona - 1.3 km - Metro access - Beach nearby",9.2
+Motel One Barcelona-Ciutadella,Barcelona,3,BA_0002_002,120,Double,"Sant Martí, Barcelona - 1.3 km - Metro access - Beach nearby",9.2
+Motel One Barcelona-Ciutadella,Barcelona,3,BA_0002_003,120,Double,"Sant Martí, Barcelona - 1.3 km - Metro access - Beach nearby",9.2
+Motel One Barcelona-Ciutadella,Barcelona,3,BA_0002_004,120,Double,"Sant Martí, Barcelona - 1.3 km - Metro access - Beach nearby",9.2
+Motel One Barcelona-Ciutadella,Barcelona,3,BA_0002_005,120,Double,"Sant Martí, Barcelona - 1.3 km - Metro access - Beach nearby",9.2
+Motel One Barcelona-Ciutadella,Barcelona,3,BA_0002_006,120,Double,"Sant Martí, Barcelona - 1.3 km - Metro access - Beach nearby",9.2
+Motel One Barcelona-Ciutadella,Barcelona,3,BA_0002_007,120,Double,"Sant Martí, Barcelona - 1.3 km - Metro access - Beach nearby",9.2
+Motel One Barcelona-Ciutadella,Barcelona,3,BA_0002_008,120,Double,"Sant Martí, Barcelona - 1.3 km - Metro access - Beach nearby",9.2
+Motel One Barcelona-Ciutadella,Barcelona,3,BA_0002_009,120,Double,"Sant Martí, Barcelona - 1.3 km - Metro access - Beach nearby",9.2
+Motel One Barcelona-Ciutadella,Barcelona,3,BA_0002_010,120,Double,"Sant Martí, Barcelona - 1.3 km - Metro access - Beach nearby",9.2
+Motel One Barcelona-Ciutadella,Barcelona,3,BA_0002_011,120,Double,"Sant Martí, Barcelona - 1.3 km - Metro access - Beach nearby",9.2
+Motel One Barcelona-Ciutadella,Barcelona,3,BA_0002_012,120,Double,"Sant Martí, Barcelona - 1.3 km - Metro access - Beach nearby",9.2
+Motel One Barcelona-Ciutadella,Barcelona,3,BA_0002_013,120,Double,"Sant Martí, Barcelona - 1.3 km - Metro access - Beach nearby",9.2
+Motel One Barcelona-Ciutadella,Barcelona,3,BA_0002_014,120,Double,"Sant Martí, Barcelona - 1.3 km - Metro access - Beach nearby",9.2
+Motel One Barcelona-Ciutadella,Barcelona,3,BA_0002_015,120,Double,"Sant Martí, Barcelona - 1.3 km - Metro access - Beach nearby",9.2
+Motel One Barcelona-Ciutadella,Barcelona,3,BA_0002_016,120,Double,"Sant Martí, Barcelona - 1.3 km - Metro access - Beach nearby",9.2
+Hotel Granvia,Barcelona,3,BA_0003_000,176,Double,"Eixample, Barcelona - 350 m - Metro access - Beach nearby",9.1
+Hotel Granvia,Barcelona,3,BA_0003_001,176,Double,"Eixample, Barcelona - 350 m - Metro access - Beach nearby",9.1
+Hotel Granvia,Barcelona,3,BA_0003_002,176,Double,"Eixample, Barcelona - 350 m - Metro access - Beach nearby",9.1
+Hotel Granvia,Barcelona,3,BA_0003_003,176,Double,"Eixample, Barcelona - 350 m - Metro access - Beach nearby",9.1
+Hotel Granvia,Barcelona,3,BA_0003_004,176,Double,"Eixample, Barcelona - 350 m - Metro access - Beach nearby",9.1
+Hotel Granvia,Barcelona,3,BA_0003_005,176,Double,"Eixample, Barcelona - 350 m - Metro access - Beach nearby",9.1
+Hotel Granvia,Barcelona,3,BA_0003_006,176,Double,"Eixample, Barcelona - 350 m - Metro access - Beach nearby",9.1
+Hotel Granvia,Barcelona,3,BA_0003_007,176,Double,"Eixample, Barcelona - 350 m - Metro access - Beach nearby",9.1
+Hotel Granvia,Barcelona,3,BA_0003_008,176,Double,"Eixample, Barcelona - 350 m - Metro access - Beach nearby",9.1
+Hotel Granvia,Barcelona,3,BA_0003_009,176,Double,"Eixample, Barcelona - 350 m - Metro access - Beach nearby",9.1
+Hotel Granvia,Barcelona,3,BA_0003_010,176,Double,"Eixample, Barcelona - 350 m - Metro access - Beach nearby",9.1
+Hotel Granvia,Barcelona,3,BA_0003_011,176,Double,"Eixample, Barcelona - 350 m - Metro access - Beach nearby",9.1
+Hotel Granvia,Barcelona,3,BA_0003_012,176,Double,"Eixample, Barcelona - 350 m - Metro access - Beach nearby",9.1
+Hotel Granvia,Barcelona,3,BA_0003_013,176,Double,"Eixample, Barcelona - 350 m - Metro access - Beach nearby",9.1
+Hotel Granvia,Barcelona,3,BA_0003_014,176,Double,"Eixample, Barcelona - 350 m - Metro access - Beach nearby",9.1
+Hotel Granvia,Barcelona,3,BA_0003_015,176,Double,"Eixample, Barcelona - 350 m - Metro access - Beach nearby",9.1
+Hotel Granvia,Barcelona,3,BA_0003_016,176,Double,"Eixample, Barcelona - 350 m - Metro access - Beach nearby",9.1
+Hotel Granvia,Barcelona,3,BA_0003_017,176,Double,"Eixample, Barcelona - 350 m - Metro access - Beach nearby",9.1
+Hotel Granvia,Barcelona,3,BA_0003_018,176,Double,"Eixample, Barcelona - 350 m - Metro access - Beach nearby",9.1
+Hotel Granvia,Barcelona,3,BA_0003_019,176,Double,"Eixample, Barcelona - 350 m - Metro access - Beach nearby",9.1
+Hotel Jazz,Barcelona,3,BA_0004_000,142,Double,"Eixample, Barcelona - 400 m - Metro access - Beach nearby",9.1
+Hotel Jazz,Barcelona,3,BA_0004_001,142,Double,"Eixample, Barcelona - 400 m - Metro access - Beach nearby",9.1
+Hotel Jazz,Barcelona,3,BA_0004_002,142,Double,"Eixample, Barcelona - 400 m - Metro access - Beach nearby",9.1
+Hotel Jazz,Barcelona,3,BA_0004_003,142,Double,"Eixample, Barcelona - 400 m - Metro access - Beach nearby",9.1
+Hotel Jazz,Barcelona,3,BA_0004_004,142,Double,"Eixample, Barcelona - 400 m - Metro access - Beach nearby",9.1
+Hotel Jazz,Barcelona,3,BA_0004_005,142,Double,"Eixample, Barcelona - 400 m - Metro access - Beach nearby",9.1
+Hotel Jazz,Barcelona,3,BA_0004_006,142,Double,"Eixample, Barcelona - 400 m - Metro access - Beach nearby",9.1
+Hotel Jazz,Barcelona,3,BA_0004_007,142,Double,"Eixample, Barcelona - 400 m - Metro access - Beach nearby",9.1
+Hotel Jazz,Barcelona,3,BA_0004_008,142,Double,"Eixample, Barcelona - 400 m - Metro access - Beach nearby",9.1
+Hotel Jazz,Barcelona,3,BA_0004_009,142,Double,"Eixample, Barcelona - 400 m - Metro access - Beach nearby",9.1
+Hotel Jazz,Barcelona,3,BA_0004_010,142,Double,"Eixample, Barcelona - 400 m - Metro access - Beach nearby",9.1
+Hotel Jazz,Barcelona,3,BA_0004_011,142,Double,"Eixample, Barcelona - 400 m - Metro access - Beach nearby",9.1
+Hotel Jazz,Barcelona,3,BA_0004_012,142,Double,"Eixample, Barcelona - 400 m - Metro access - Beach nearby",9.1
+Hotel Jazz,Barcelona,3,BA_0004_013,142,Double,"Eixample, Barcelona - 400 m - Metro access - Beach nearby",9.1
+Hotel Jazz,Barcelona,3,BA_0004_014,142,Double,"Eixample, Barcelona - 400 m - Metro access - Beach nearby",9.1
+Hotel Jazz,Barcelona,3,BA_0004_015,200,Triple,"Eixample, Barcelona - 400 m - Metro access - Beach nearby",9.1
+Hotel Jazz,Barcelona,3,BA_0004_016,200,Triple,"Eixample, Barcelona - 400 m - Metro access - Beach nearby",9.1
+Hotel Jazz,Barcelona,3,BA_0004_017,200,Triple,"Eixample, Barcelona - 400 m - Metro access - Beach nearby",9.1
+Hotel Jazz,Barcelona,3,BA_0004_018,200,Triple,"Eixample, Barcelona - 400 m - Metro access - Beach nearby",9.1
+Hotel Jazz,Barcelona,3,BA_0004_019,200,Triple,"Eixample, Barcelona - 400 m - Metro access - Beach nearby",9.1
+Hotel Jazz,Barcelona,3,BA_0004_020,200,Triple,"Eixample, Barcelona - 400 m - Metro access - Beach nearby",9.1
+Hotel Jazz,Barcelona,3,BA_0004_021,200,Triple,"Eixample, Barcelona - 400 m - Metro access - Beach nearby",9.1
+Hotel Jazz,Barcelona,3,BA_0004_022,200,Triple,"Eixample, Barcelona - 400 m - Metro access - Beach nearby",9.1
+Hotel Jazz,Barcelona,3,BA_0004_023,200,Triple,"Eixample, Barcelona - 400 m - Metro access - Beach nearby",9.1
+Hotel Jazz,Barcelona,3,BA_0004_024,200,Triple,"Eixample, Barcelona - 400 m - Metro access - Beach nearby",9.1
+Hotel Jazz,Barcelona,3,BA_0004_025,200,Triple,"Eixample, Barcelona - 400 m - Metro access - Beach nearby",9.1
+Boutique Hotel H10 Montcada,Barcelona,4,BA_0005_000,143,Single,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",9.0
+Boutique Hotel H10 Montcada,Barcelona,4,BA_0005_001,143,Single,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",9.0
+Boutique Hotel H10 Montcada,Barcelona,4,BA_0005_002,143,Single,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",9.0
+Boutique Hotel H10 Montcada,Barcelona,4,BA_0005_003,143,Single,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",9.0
+Boutique Hotel H10 Montcada,Barcelona,4,BA_0005_004,143,Single,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",9.0
+Boutique Hotel H10 Montcada,Barcelona,4,BA_0005_005,143,Single,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",9.0
+Boutique Hotel H10 Montcada,Barcelona,4,BA_0005_006,143,Single,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",9.0
+Boutique Hotel H10 Montcada,Barcelona,4,BA_0005_007,143,Single,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",9.0
+Boutique Hotel H10 Montcada,Barcelona,4,BA_0005_008,143,Single,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",9.0
+Boutique Hotel H10 Montcada,Barcelona,4,BA_0005_009,143,Single,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",9.0
+Boutique Hotel H10 Montcada,Barcelona,4,BA_0005_010,143,Single,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",9.0
+Boutique Hotel H10 Montcada,Barcelona,4,BA_0005_011,143,Single,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",9.0
+Boutique Hotel H10 Montcada,Barcelona,4,BA_0005_012,143,Single,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",9.0
+Boutique Hotel H10 Montcada,Barcelona,4,BA_0005_013,143,Single,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",9.0
+Boutique Hotel H10 Montcada,Barcelona,4,BA_0005_014,143,Single,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",9.0
+Boutique Hotel H10 Montcada,Barcelona,4,BA_0005_015,143,Single,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",9.0
+Boutique Hotel H10 Montcada,Barcelona,4,BA_0005_016,143,Single,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",9.0
+Boutique Hotel H10 Montcada,Barcelona,4,BA_0005_017,143,Single,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",9.0
+Boutique Hotel H10 Montcada,Barcelona,4,BA_0005_018,143,Single,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",9.0
+Boutique Hotel H10 Montcada,Barcelona,4,BA_0005_019,143,Single,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",9.0
+Boutique Hotel H10 Montcada,Barcelona,4,BA_0005_020,143,Single,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",9.0
+Boutique Hotel H10 Montcada,Barcelona,4,BA_0005_021,143,Single,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",9.0
+Europark,Barcelona,3,BA_0006_000,136,Double,"Eixample, Barcelona - 1 km - Metro access - Beach nearby",9.0
+Europark,Barcelona,3,BA_0006_001,136,Double,"Eixample, Barcelona - 1 km - Metro access - Beach nearby",9.0
+Europark,Barcelona,3,BA_0006_002,136,Double,"Eixample, Barcelona - 1 km - Metro access - Beach nearby",9.0
+Europark,Barcelona,3,BA_0006_003,136,Double,"Eixample, Barcelona - 1 km - Metro access - Beach nearby",9.0
+Europark,Barcelona,3,BA_0006_004,136,Double,"Eixample, Barcelona - 1 km - Metro access - Beach nearby",9.0
+Europark,Barcelona,3,BA_0006_005,136,Double,"Eixample, Barcelona - 1 km - Metro access - Beach nearby",9.0
+Europark,Barcelona,3,BA_0006_006,136,Double,"Eixample, Barcelona - 1 km - Metro access - Beach nearby",9.0
+Europark,Barcelona,3,BA_0006_007,136,Double,"Eixample, Barcelona - 1 km - Metro access - Beach nearby",9.0
+Europark,Barcelona,3,BA_0006_008,136,Double,"Eixample, Barcelona - 1 km - Metro access - Beach nearby",9.0
+Europark,Barcelona,3,BA_0006_009,136,Double,"Eixample, Barcelona - 1 km - Metro access - Beach nearby",9.0
+Europark,Barcelona,3,BA_0006_010,136,Double,"Eixample, Barcelona - 1 km - Metro access - Beach nearby",9.0
+Europark,Barcelona,3,BA_0006_011,136,Double,"Eixample, Barcelona - 1 km - Metro access - Beach nearby",9.0
+Europark,Barcelona,3,BA_0006_012,136,Double,"Eixample, Barcelona - 1 km - Metro access - Beach nearby",9.0
+Europark,Barcelona,3,BA_0006_013,136,Double,"Eixample, Barcelona - 1 km - Metro access - Beach nearby",9.0
+Europark,Barcelona,3,BA_0006_014,136,Double,"Eixample, Barcelona - 1 km - Metro access - Beach nearby",9.0
+Europark,Barcelona,3,BA_0006_015,168,Triple,"Eixample, Barcelona - 1 km - Metro access - Beach nearby",9.0
+Europark,Barcelona,3,BA_0006_016,168,Triple,"Eixample, Barcelona - 1 km - Metro access - Beach nearby",9.0
+Europark,Barcelona,3,BA_0006_017,168,Triple,"Eixample, Barcelona - 1 km - Metro access - Beach nearby",9.0
+Europark,Barcelona,3,BA_0006_018,168,Triple,"Eixample, Barcelona - 1 km - Metro access - Beach nearby",9.0
+Europark,Barcelona,3,BA_0006_019,168,Triple,"Eixample, Barcelona - 1 km - Metro access - Beach nearby",9.0
+Europark,Barcelona,3,BA_0006_020,168,Triple,"Eixample, Barcelona - 1 km - Metro access - Beach nearby",9.0
+Europark,Barcelona,3,BA_0006_021,168,Triple,"Eixample, Barcelona - 1 km - Metro access - Beach nearby",9.0
+Europark,Barcelona,3,BA_0006_022,168,Triple,"Eixample, Barcelona - 1 km - Metro access - Beach nearby",9.0
+Europark,Barcelona,3,BA_0006_023,168,Triple,"Eixample, Barcelona - 1 km - Metro access - Beach nearby",9.0
+Europark,Barcelona,3,BA_0006_024,168,Triple,"Eixample, Barcelona - 1 km - Metro access - Beach nearby",9.0
+Hotel Rec Barcelona - Adults Only,Barcelona,3,BA_0007_000,139,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",9.0
+Hotel Rec Barcelona - Adults Only,Barcelona,3,BA_0007_001,139,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",9.0
+Hotel Rec Barcelona - Adults Only,Barcelona,3,BA_0007_002,139,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",9.0
+Hotel Rec Barcelona - Adults Only,Barcelona,3,BA_0007_003,139,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",9.0
+Hotel Rec Barcelona - Adults Only,Barcelona,3,BA_0007_004,139,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",9.0
+Hotel Rec Barcelona - Adults Only,Barcelona,3,BA_0007_005,139,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",9.0
+Hotel Rec Barcelona - Adults Only,Barcelona,3,BA_0007_006,139,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",9.0
+Hotel Rec Barcelona - Adults Only,Barcelona,3,BA_0007_007,139,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",9.0
+Hotel Rec Barcelona - Adults Only,Barcelona,3,BA_0007_008,139,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",9.0
+Hotel Rec Barcelona - Adults Only,Barcelona,3,BA_0007_009,139,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",9.0
+Hotel Rec Barcelona - Adults Only,Barcelona,3,BA_0007_010,139,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",9.0
+Hotel Rec Barcelona - Adults Only,Barcelona,3,BA_0007_011,139,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",9.0
+Hotel Rec Barcelona - Adults Only,Barcelona,3,BA_0007_012,139,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",9.0
+Hotel Rec Barcelona - Adults Only,Barcelona,3,BA_0007_013,139,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",9.0
+Hotel Rec Barcelona - Adults Only,Barcelona,3,BA_0007_014,139,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",9.0
+Hotel Rec Barcelona - Adults Only,Barcelona,3,BA_0007_015,139,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",9.0
+Hotel Rec Barcelona - Adults Only,Barcelona,3,BA_0007_016,139,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",9.0
+Barceló Sants,Barcelona,4,BA_0008_000,120,Double,"Sants-Montjuïc, Barcelona - 2.7 km - Metro access -",8.8
+Barceló Sants,Barcelona,4,BA_0008_001,120,Double,"Sants-Montjuïc, Barcelona - 2.7 km - Metro access -",8.8
+Barceló Sants,Barcelona,4,BA_0008_002,120,Double,"Sants-Montjuïc, Barcelona - 2.7 km - Metro access -",8.8
+Barceló Sants,Barcelona,4,BA_0008_003,120,Double,"Sants-Montjuïc, Barcelona - 2.7 km - Metro access -",8.8
+Barceló Sants,Barcelona,4,BA_0008_004,120,Double,"Sants-Montjuïc, Barcelona - 2.7 km - Metro access -",8.8
+Barceló Sants,Barcelona,4,BA_0008_005,120,Double,"Sants-Montjuïc, Barcelona - 2.7 km - Metro access -",8.8
+Barceló Sants,Barcelona,4,BA_0008_006,120,Double,"Sants-Montjuïc, Barcelona - 2.7 km - Metro access -",8.8
+Barceló Sants,Barcelona,4,BA_0008_007,120,Double,"Sants-Montjuïc, Barcelona - 2.7 km - Metro access -",8.8
+Barceló Sants,Barcelona,4,BA_0008_008,120,Double,"Sants-Montjuïc, Barcelona - 2.7 km - Metro access -",8.8
+Barceló Sants,Barcelona,4,BA_0008_009,120,Double,"Sants-Montjuïc, Barcelona - 2.7 km - Metro access -",8.8
+Barceló Sants,Barcelona,4,BA_0008_010,120,Double,"Sants-Montjuïc, Barcelona - 2.7 km - Metro access -",8.8
+Barceló Sants,Barcelona,4,BA_0008_011,120,Double,"Sants-Montjuïc, Barcelona - 2.7 km - Metro access -",8.8
+Barceló Sants,Barcelona,4,BA_0008_012,120,Double,"Sants-Montjuïc, Barcelona - 2.7 km - Metro access -",8.8
+Barceló Sants,Barcelona,4,BA_0008_013,120,Double,"Sants-Montjuïc, Barcelona - 2.7 km - Metro access -",8.8
+Barceló Sants,Barcelona,4,BA_0008_014,120,Double,"Sants-Montjuïc, Barcelona - 2.7 km - Metro access -",8.8
+Barceló Sants,Barcelona,4,BA_0008_015,116,Single,"Sants-Montjuïc, Barcelona - 2.7 km - Metro access -",8.8
+Barceló Sants,Barcelona,4,BA_0008_016,116,Single,"Sants-Montjuïc, Barcelona - 2.7 km - Metro access -",8.8
+Barceló Sants,Barcelona,4,BA_0008_017,116,Single,"Sants-Montjuïc, Barcelona - 2.7 km - Metro access -",8.8
+Barceló Sants,Barcelona,4,BA_0008_018,116,Single,"Sants-Montjuïc, Barcelona - 2.7 km - Metro access -",8.8
+Barceló Sants,Barcelona,4,BA_0008_019,116,Single,"Sants-Montjuïc, Barcelona - 2.7 km - Metro access -",8.8
+Barceló Sants,Barcelona,4,BA_0008_020,163,Triple,"Sants-Montjuïc, Barcelona - 2.7 km - Metro access -",8.8
+Barceló Sants,Barcelona,4,BA_0008_021,163,Triple,"Sants-Montjuïc, Barcelona - 2.7 km - Metro access -",8.8
+Barceló Sants,Barcelona,4,BA_0008_022,163,Triple,"Sants-Montjuïc, Barcelona - 2.7 km - Metro access -",8.8
+Barceló Sants,Barcelona,4,BA_0008_023,163,Triple,"Sants-Montjuïc, Barcelona - 2.7 km - Metro access -",8.8
+Barceló Sants,Barcelona,4,BA_0008_024,163,Triple,"Sants-Montjuïc, Barcelona - 2.7 km - Metro access -",8.8
+Barceló Sants,Barcelona,4,BA_0008_025,163,Triple,"Sants-Montjuïc, Barcelona - 2.7 km - Metro access -",8.8
+Barceló Sants,Barcelona,4,BA_0008_026,163,Triple,"Sants-Montjuïc, Barcelona - 2.7 km - Metro access -",8.8
+Barceló Sants,Barcelona,4,BA_0008_027,163,Triple,"Sants-Montjuïc, Barcelona - 2.7 km - Metro access -",8.8
+Barceló Sants,Barcelona,4,BA_0008_028,163,Triple,"Sants-Montjuïc, Barcelona - 2.7 km - Metro access -",8.8
+Barceló Sants,Barcelona,4,BA_0008_029,163,Triple,"Sants-Montjuïc, Barcelona - 2.7 km - Metro access -",8.8
+Catalonia Born,Barcelona,4,BA_0009_000,138,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.8
+Catalonia Born,Barcelona,4,BA_0009_001,138,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.8
+Catalonia Born,Barcelona,4,BA_0009_002,138,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.8
+Catalonia Born,Barcelona,4,BA_0009_003,138,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.8
+Catalonia Born,Barcelona,4,BA_0009_004,138,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.8
+Catalonia Born,Barcelona,4,BA_0009_005,138,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.8
+Catalonia Born,Barcelona,4,BA_0009_006,138,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.8
+Catalonia Born,Barcelona,4,BA_0009_007,138,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.8
+Catalonia Born,Barcelona,4,BA_0009_008,138,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.8
+Catalonia Born,Barcelona,4,BA_0009_009,138,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.8
+Catalonia Born,Barcelona,4,BA_0009_010,138,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.8
+Catalonia Born,Barcelona,4,BA_0009_011,138,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.8
+Catalonia Born,Barcelona,4,BA_0009_012,138,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.8
+Catalonia Born,Barcelona,4,BA_0009_013,138,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.8
+Catalonia Born,Barcelona,4,BA_0009_014,138,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.8
+Catalonia Born,Barcelona,4,BA_0009_015,138,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.8
+Catalonia Born,Barcelona,4,BA_0009_016,138,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.8
+Catalonia Born,Barcelona,4,BA_0009_017,138,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.8
+Catalonia Born,Barcelona,4,BA_0009_018,138,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.8
+Catalonia Born,Barcelona,4,BA_0009_019,138,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.8
+Catalonia Born,Barcelona,4,BA_0009_020,138,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.8
+Catalonia Born,Barcelona,4,BA_0009_021,138,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.8
+Catalonia Born,Barcelona,4,BA_0009_022,138,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.8
+Catalonia Born,Barcelona,4,BA_0009_023,138,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.8
+Catalonia Born,Barcelona,4,BA_0009_024,138,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.8
+Catalonia Born,Barcelona,4,BA_0009_025,138,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.8
+H10 Universitat,Barcelona,4,BA_0010_000,126,Double,"Eixample, Barcelona - 300 m - Metro access - Beach nearby",8.8
+H10 Universitat,Barcelona,4,BA_0010_001,126,Double,"Eixample, Barcelona - 300 m - Metro access - Beach nearby",8.8
+H10 Universitat,Barcelona,4,BA_0010_002,126,Double,"Eixample, Barcelona - 300 m - Metro access - Beach nearby",8.8
+H10 Universitat,Barcelona,4,BA_0010_003,126,Double,"Eixample, Barcelona - 300 m - Metro access - Beach nearby",8.8
+H10 Universitat,Barcelona,4,BA_0010_004,126,Double,"Eixample, Barcelona - 300 m - Metro access - Beach nearby",8.8
+H10 Universitat,Barcelona,4,BA_0010_005,126,Double,"Eixample, Barcelona - 300 m - Metro access - Beach nearby",8.8
+H10 Universitat,Barcelona,4,BA_0010_006,126,Double,"Eixample, Barcelona - 300 m - Metro access - Beach nearby",8.8
+H10 Universitat,Barcelona,4,BA_0010_007,126,Double,"Eixample, Barcelona - 300 m - Metro access - Beach nearby",8.8
+H10 Universitat,Barcelona,4,BA_0010_008,126,Double,"Eixample, Barcelona - 300 m - Metro access - Beach nearby",8.8
+H10 Universitat,Barcelona,4,BA_0010_009,126,Double,"Eixample, Barcelona - 300 m - Metro access - Beach nearby",8.8
+H10 Universitat,Barcelona,4,BA_0010_010,126,Double,"Eixample, Barcelona - 300 m - Metro access - Beach nearby",8.8
+H10 Universitat,Barcelona,4,BA_0010_011,126,Double,"Eixample, Barcelona - 300 m - Metro access - Beach nearby",8.8
+H10 Universitat,Barcelona,4,BA_0010_012,126,Double,"Eixample, Barcelona - 300 m - Metro access - Beach nearby",8.8
+H10 Universitat,Barcelona,4,BA_0010_013,126,Double,"Eixample, Barcelona - 300 m - Metro access - Beach nearby",8.8
+H10 Universitat,Barcelona,4,BA_0010_014,126,Double,"Eixample, Barcelona - 300 m - Metro access - Beach nearby",8.8
+H10 Universitat,Barcelona,4,BA_0010_015,126,Double,"Eixample, Barcelona - 300 m - Metro access - Beach nearby",8.8
+H10 Universitat,Barcelona,4,BA_0010_016,126,Double,"Eixample, Barcelona - 300 m - Metro access - Beach nearby",8.8
+H10 Universitat,Barcelona,4,BA_0010_017,126,Double,"Eixample, Barcelona - 300 m - Metro access - Beach nearby",8.8
+H10 Universitat,Barcelona,4,BA_0010_018,126,Double,"Eixample, Barcelona - 300 m - Metro access - Beach nearby",8.8
+H10 Universitat,Barcelona,4,BA_0010_019,126,Double,"Eixample, Barcelona - 300 m - Metro access - Beach nearby",8.8
+H10 Universitat,Barcelona,4,BA_0010_020,211,Suite,"Eixample, Barcelona - 300 m - Metro access - Beach nearby",8.8
+H10 Universitat,Barcelona,4,BA_0010_021,211,Suite,"Eixample, Barcelona - 300 m - Metro access - Beach nearby",8.8
+H10 Universitat,Barcelona,4,BA_0010_022,211,Suite,"Eixample, Barcelona - 300 m - Metro access - Beach nearby",8.8
+H10 Universitat,Barcelona,4,BA_0010_023,211,Suite,"Eixample, Barcelona - 300 m - Metro access - Beach nearby",8.8
+H10 Universitat,Barcelona,4,BA_0010_024,211,Suite,"Eixample, Barcelona - 300 m - Metro access - Beach nearby",8.8
+Acta Antibes,Barcelona,2,BA_0011_000,125,Double,"Eixample, Barcelona - 1.4 km - Metro access - Beach nearby",8.7
+Acta Antibes,Barcelona,2,BA_0011_001,125,Double,"Eixample, Barcelona - 1.4 km - Metro access - Beach nearby",8.7
+Acta Antibes,Barcelona,2,BA_0011_002,125,Double,"Eixample, Barcelona - 1.4 km - Metro access - Beach nearby",8.7
+Acta Antibes,Barcelona,2,BA_0011_003,125,Double,"Eixample, Barcelona - 1.4 km - Metro access - Beach nearby",8.7
+Acta Antibes,Barcelona,2,BA_0011_004,125,Double,"Eixample, Barcelona - 1.4 km - Metro access - Beach nearby",8.7
+Acta Antibes,Barcelona,2,BA_0011_005,125,Double,"Eixample, Barcelona - 1.4 km - Metro access - Beach nearby",8.7
+Acta Antibes,Barcelona,2,BA_0011_006,125,Double,"Eixample, Barcelona - 1.4 km - Metro access - Beach nearby",8.7
+Acta Antibes,Barcelona,2,BA_0011_007,125,Double,"Eixample, Barcelona - 1.4 km - Metro access - Beach nearby",8.7
+Acta Antibes,Barcelona,2,BA_0011_008,125,Double,"Eixample, Barcelona - 1.4 km - Metro access - Beach nearby",8.7
+Acta Antibes,Barcelona,2,BA_0011_009,125,Double,"Eixample, Barcelona - 1.4 km - Metro access - Beach nearby",8.7
+Acta Antibes,Barcelona,2,BA_0011_010,125,Double,"Eixample, Barcelona - 1.4 km - Metro access - Beach nearby",8.7
+Acta Antibes,Barcelona,2,BA_0011_011,125,Double,"Eixample, Barcelona - 1.4 km - Metro access - Beach nearby",8.7
+Acta Antibes,Barcelona,2,BA_0011_012,110,Single,"Eixample, Barcelona - 1.4 km - Metro access - Beach nearby",8.7
+Acta Antibes,Barcelona,2,BA_0011_013,110,Single,"Eixample, Barcelona - 1.4 km - Metro access - Beach nearby",8.7
+Acta Antibes,Barcelona,2,BA_0011_014,110,Single,"Eixample, Barcelona - 1.4 km - Metro access - Beach nearby",8.7
+Acta Antibes,Barcelona,2,BA_0011_015,110,Single,"Eixample, Barcelona - 1.4 km - Metro access - Beach nearby",8.7
+Acta Antibes,Barcelona,2,BA_0011_016,110,Single,"Eixample, Barcelona - 1.4 km - Metro access - Beach nearby",8.7
+Acta Antibes,Barcelona,2,BA_0011_017,110,Single,"Eixample, Barcelona - 1.4 km - Metro access - Beach nearby",8.7
+Acta Antibes,Barcelona,2,BA_0011_018,110,Single,"Eixample, Barcelona - 1.4 km - Metro access - Beach nearby",8.7
+Acta Antibes,Barcelona,2,BA_0011_019,110,Single,"Eixample, Barcelona - 1.4 km - Metro access - Beach nearby",8.7
+Acta Antibes,Barcelona,2,BA_0011_020,110,Single,"Eixample, Barcelona - 1.4 km - Metro access - Beach nearby",8.7
+Acta Antibes,Barcelona,2,BA_0011_021,110,Single,"Eixample, Barcelona - 1.4 km - Metro access - Beach nearby",8.7
+Acta Antibes,Barcelona,2,BA_0011_022,110,Single,"Eixample, Barcelona - 1.4 km - Metro access - Beach nearby",8.7
+Acta Antibes,Barcelona,2,BA_0011_023,110,Single,"Eixample, Barcelona - 1.4 km - Metro access - Beach nearby",8.7
+Acta Antibes,Barcelona,2,BA_0011_024,175,Triple,"Eixample, Barcelona - 1.4 km - Metro access - Beach nearby",8.7
+Acta Antibes,Barcelona,2,BA_0011_025,175,Triple,"Eixample, Barcelona - 1.4 km - Metro access - Beach nearby",8.7
+Acta Antibes,Barcelona,2,BA_0011_026,175,Triple,"Eixample, Barcelona - 1.4 km - Metro access - Beach nearby",8.7
+Acta Antibes,Barcelona,2,BA_0011_027,175,Triple,"Eixample, Barcelona - 1.4 km - Metro access - Beach nearby",8.7
+Acta Antibes,Barcelona,2,BA_0011_028,175,Triple,"Eixample, Barcelona - 1.4 km - Metro access - Beach nearby",8.7
+Acta Antibes,Barcelona,2,BA_0011_029,175,Triple,"Eixample, Barcelona - 1.4 km - Metro access - Beach nearby",8.7
+Catalonia Albeniz,Barcelona,3,BA_0012_000,106,Double,"Sant Martí, Barcelona - 2.7 km - Metro access - Beach nearby",8.7
+Catalonia Albeniz,Barcelona,3,BA_0012_001,106,Double,"Sant Martí, Barcelona - 2.7 km - Metro access - Beach nearby",8.7
+Catalonia Albeniz,Barcelona,3,BA_0012_002,106,Double,"Sant Martí, Barcelona - 2.7 km - Metro access - Beach nearby",8.7
+Catalonia Albeniz,Barcelona,3,BA_0012_003,106,Double,"Sant Martí, Barcelona - 2.7 km - Metro access - Beach nearby",8.7
+Catalonia Albeniz,Barcelona,3,BA_0012_004,106,Double,"Sant Martí, Barcelona - 2.7 km - Metro access - Beach nearby",8.7
+Catalonia Albeniz,Barcelona,3,BA_0012_005,106,Double,"Sant Martí, Barcelona - 2.7 km - Metro access - Beach nearby",8.7
+Catalonia Albeniz,Barcelona,3,BA_0012_006,106,Double,"Sant Martí, Barcelona - 2.7 km - Metro access - Beach nearby",8.7
+Catalonia Albeniz,Barcelona,3,BA_0012_007,106,Double,"Sant Martí, Barcelona - 2.7 km - Metro access - Beach nearby",8.7
+Catalonia Albeniz,Barcelona,3,BA_0012_008,106,Double,"Sant Martí, Barcelona - 2.7 km - Metro access - Beach nearby",8.7
+Catalonia Albeniz,Barcelona,3,BA_0012_009,106,Double,"Sant Martí, Barcelona - 2.7 km - Metro access - Beach nearby",8.7
+Catalonia Albeniz,Barcelona,3,BA_0012_010,106,Double,"Sant Martí, Barcelona - 2.7 km - Metro access - Beach nearby",8.7
+Catalonia Albeniz,Barcelona,3,BA_0012_011,106,Double,"Sant Martí, Barcelona - 2.7 km - Metro access - Beach nearby",8.7
+Catalonia Albeniz,Barcelona,3,BA_0012_012,141,Triple,"Sant Martí, Barcelona - 2.7 km - Metro access - Beach nearby",8.7
+Catalonia Albeniz,Barcelona,3,BA_0012_013,141,Triple,"Sant Martí, Barcelona - 2.7 km - Metro access - Beach nearby",8.7
+Catalonia Albeniz,Barcelona,3,BA_0012_014,141,Triple,"Sant Martí, Barcelona - 2.7 km - Metro access - Beach nearby",8.7
+Catalonia Albeniz,Barcelona,3,BA_0012_015,141,Triple,"Sant Martí, Barcelona - 2.7 km - Metro access - Beach nearby",8.7
+Catalonia Albeniz,Barcelona,3,BA_0012_016,141,Triple,"Sant Martí, Barcelona - 2.7 km - Metro access - Beach nearby",8.7
+Catalonia Albeniz,Barcelona,3,BA_0012_017,141,Triple,"Sant Martí, Barcelona - 2.7 km - Metro access - Beach nearby",8.7
+Catalonia Albeniz,Barcelona,3,BA_0012_018,141,Triple,"Sant Martí, Barcelona - 2.7 km - Metro access - Beach nearby",8.7
+Catalonia Albeniz,Barcelona,3,BA_0012_019,141,Triple,"Sant Martí, Barcelona - 2.7 km - Metro access - Beach nearby",8.7
+Catalonia Albeniz,Barcelona,3,BA_0012_020,141,Triple,"Sant Martí, Barcelona - 2.7 km - Metro access - Beach nearby",8.7
+Catalonia Albeniz,Barcelona,3,BA_0012_021,141,Triple,"Sant Martí, Barcelona - 2.7 km - Metro access - Beach nearby",8.7
+Catalonia Albeniz,Barcelona,3,BA_0012_022,141,Triple,"Sant Martí, Barcelona - 2.7 km - Metro access - Beach nearby",8.7
+Catalonia Albeniz,Barcelona,3,BA_0012_023,141,Triple,"Sant Martí, Barcelona - 2.7 km - Metro access - Beach nearby",8.7
+Catalonia Albeniz,Barcelona,3,BA_0012_024,141,Triple,"Sant Martí, Barcelona - 2.7 km - Metro access - Beach nearby",8.7
+Chic & Basic Lemon Boutique Hotel,Barcelona,2,BA_0013_000,127,Double,"Ciutat Vella, Barcelona - 450 m - Metro access - Beach nearby",8.7
+Chic & Basic Lemon Boutique Hotel,Barcelona,2,BA_0013_001,127,Double,"Ciutat Vella, Barcelona - 450 m - Metro access - Beach nearby",8.7
+Chic & Basic Lemon Boutique Hotel,Barcelona,2,BA_0013_002,127,Double,"Ciutat Vella, Barcelona - 450 m - Metro access - Beach nearby",8.7
+Chic & Basic Lemon Boutique Hotel,Barcelona,2,BA_0013_003,127,Double,"Ciutat Vella, Barcelona - 450 m - Metro access - Beach nearby",8.7
+Chic & Basic Lemon Boutique Hotel,Barcelona,2,BA_0013_004,127,Double,"Ciutat Vella, Barcelona - 450 m - Metro access - Beach nearby",8.7
+Chic & Basic Lemon Boutique Hotel,Barcelona,2,BA_0013_005,127,Double,"Ciutat Vella, Barcelona - 450 m - Metro access - Beach nearby",8.7
+Chic & Basic Lemon Boutique Hotel,Barcelona,2,BA_0013_006,127,Double,"Ciutat Vella, Barcelona - 450 m - Metro access - Beach nearby",8.7
+Chic & Basic Lemon Boutique Hotel,Barcelona,2,BA_0013_007,127,Double,"Ciutat Vella, Barcelona - 450 m - Metro access - Beach nearby",8.7
+Chic & Basic Lemon Boutique Hotel,Barcelona,2,BA_0013_008,127,Double,"Ciutat Vella, Barcelona - 450 m - Metro access - Beach nearby",8.7
+Chic & Basic Lemon Boutique Hotel,Barcelona,2,BA_0013_009,127,Double,"Ciutat Vella, Barcelona - 450 m - Metro access - Beach nearby",8.7
+Chic & Basic Lemon Boutique Hotel,Barcelona,2,BA_0013_010,127,Double,"Ciutat Vella, Barcelona - 450 m - Metro access - Beach nearby",8.7
+Chic & Basic Lemon Boutique Hotel,Barcelona,2,BA_0013_011,127,Double,"Ciutat Vella, Barcelona - 450 m - Metro access - Beach nearby",8.7
+Chic & Basic Lemon Boutique Hotel,Barcelona,2,BA_0013_012,127,Double,"Ciutat Vella, Barcelona - 450 m - Metro access - Beach nearby",8.7
+Chic & Basic Lemon Boutique Hotel,Barcelona,2,BA_0013_013,127,Double,"Ciutat Vella, Barcelona - 450 m - Metro access - Beach nearby",8.7
+Chic & Basic Lemon Boutique Hotel,Barcelona,2,BA_0013_014,127,Double,"Ciutat Vella, Barcelona - 450 m - Metro access - Beach nearby",8.7
+Chic & Basic Lemon Boutique Hotel,Barcelona,2,BA_0013_015,127,Double,"Ciutat Vella, Barcelona - 450 m - Metro access - Beach nearby",8.7
+Chic & Basic Lemon Boutique Hotel,Barcelona,2,BA_0013_016,127,Double,"Ciutat Vella, Barcelona - 450 m - Metro access - Beach nearby",8.7
+Chic & Basic Lemon Boutique Hotel,Barcelona,2,BA_0013_017,127,Double,"Ciutat Vella, Barcelona - 450 m - Metro access - Beach nearby",8.7
+Chic & Basic Lemon Boutique Hotel,Barcelona,2,BA_0013_018,127,Double,"Ciutat Vella, Barcelona - 450 m - Metro access - Beach nearby",8.7
+Chic & Basic Lemon Boutique Hotel,Barcelona,2,BA_0013_019,127,Double,"Ciutat Vella, Barcelona - 450 m - Metro access - Beach nearby",8.7
+Chic & Basic Lemon Boutique Hotel,Barcelona,2,BA_0013_020,127,Double,"Ciutat Vella, Barcelona - 450 m - Metro access - Beach nearby",8.7
+Chic & Basic Lemon Boutique Hotel,Barcelona,2,BA_0013_021,127,Double,"Ciutat Vella, Barcelona - 450 m - Metro access - Beach nearby",8.7
+Chic & Basic Lemon Boutique Hotel,Barcelona,2,BA_0013_022,127,Double,"Ciutat Vella, Barcelona - 450 m - Metro access - Beach nearby",8.7
+Chic & Basic Lemon Boutique Hotel,Barcelona,2,BA_0013_023,127,Double,"Ciutat Vella, Barcelona - 450 m - Metro access - Beach nearby",8.7
+Chic & Basic Lemon Boutique Hotel,Barcelona,2,BA_0013_024,127,Double,"Ciutat Vella, Barcelona - 450 m - Metro access - Beach nearby",8.7
+SM Hotel Sant Antoni,Barcelona,3,BA_0014_000,166,Double,"Eixample, Barcelona - 1.5 km - Metro access - Beach nearby",8.7
+SM Hotel Sant Antoni,Barcelona,3,BA_0014_001,166,Double,"Eixample, Barcelona - 1.5 km - Metro access - Beach nearby",8.7
+SM Hotel Sant Antoni,Barcelona,3,BA_0014_002,166,Double,"Eixample, Barcelona - 1.5 km - Metro access - Beach nearby",8.7
+SM Hotel Sant Antoni,Barcelona,3,BA_0014_003,166,Double,"Eixample, Barcelona - 1.5 km - Metro access - Beach nearby",8.7
+SM Hotel Sant Antoni,Barcelona,3,BA_0014_004,166,Double,"Eixample, Barcelona - 1.5 km - Metro access - Beach nearby",8.7
+SM Hotel Sant Antoni,Barcelona,3,BA_0014_005,166,Double,"Eixample, Barcelona - 1.5 km - Metro access - Beach nearby",8.7
+SM Hotel Sant Antoni,Barcelona,3,BA_0014_006,166,Double,"Eixample, Barcelona - 1.5 km - Metro access - Beach nearby",8.7
+SM Hotel Sant Antoni,Barcelona,3,BA_0014_007,166,Double,"Eixample, Barcelona - 1.5 km - Metro access - Beach nearby",8.7
+SM Hotel Sant Antoni,Barcelona,3,BA_0014_008,166,Double,"Eixample, Barcelona - 1.5 km - Metro access - Beach nearby",8.7
+SM Hotel Sant Antoni,Barcelona,3,BA_0014_009,166,Double,"Eixample, Barcelona - 1.5 km - Metro access - Beach nearby",8.7
+SM Hotel Sant Antoni,Barcelona,3,BA_0014_010,166,Double,"Eixample, Barcelona - 1.5 km - Metro access - Beach nearby",8.7
+SM Hotel Sant Antoni,Barcelona,3,BA_0014_011,166,Double,"Eixample, Barcelona - 1.5 km - Metro access - Beach nearby",8.7
+SM Hotel Sant Antoni,Barcelona,3,BA_0014_012,166,Double,"Eixample, Barcelona - 1.5 km - Metro access - Beach nearby",8.7
+SM Hotel Sant Antoni,Barcelona,3,BA_0014_013,166,Double,"Eixample, Barcelona - 1.5 km - Metro access - Beach nearby",8.7
+SM Hotel Sant Antoni,Barcelona,3,BA_0014_014,166,Double,"Eixample, Barcelona - 1.5 km - Metro access - Beach nearby",8.7
+SM Hotel Sant Antoni,Barcelona,3,BA_0014_015,166,Double,"Eixample, Barcelona - 1.5 km - Metro access - Beach nearby",8.7
+SM Hotel Sant Antoni,Barcelona,3,BA_0014_016,166,Double,"Eixample, Barcelona - 1.5 km - Metro access - Beach nearby",8.7
+SM Hotel Sant Antoni,Barcelona,3,BA_0014_017,166,Double,"Eixample, Barcelona - 1.5 km - Metro access - Beach nearby",8.7
+SM Hotel Sant Antoni,Barcelona,3,BA_0014_018,153,Single,"Eixample, Barcelona - 1.5 km - Metro access - Beach nearby",8.7
+SM Hotel Sant Antoni,Barcelona,3,BA_0014_019,153,Single,"Eixample, Barcelona - 1.5 km - Metro access - Beach nearby",8.7
+SM Hotel Sant Antoni,Barcelona,3,BA_0014_020,153,Single,"Eixample, Barcelona - 1.5 km - Metro access - Beach nearby",8.7
+SM Hotel Sant Antoni,Barcelona,3,BA_0014_021,153,Single,"Eixample, Barcelona - 1.5 km - Metro access - Beach nearby",8.7
+SM Hotel Sant Antoni,Barcelona,3,BA_0014_022,153,Single,"Eixample, Barcelona - 1.5 km - Metro access - Beach nearby",8.7
+SM Hotel Sant Antoni,Barcelona,3,BA_0014_023,153,Single,"Eixample, Barcelona - 1.5 km - Metro access - Beach nearby",8.7
+SM Hotel Sant Antoni,Barcelona,3,BA_0014_024,153,Single,"Eixample, Barcelona - 1.5 km - Metro access - Beach nearby",8.7
+SM Hotel Sant Antoni,Barcelona,3,BA_0014_025,153,Single,"Eixample, Barcelona - 1.5 km - Metro access - Beach nearby",8.7
+SM Hotel Sant Antoni,Barcelona,3,BA_0014_026,153,Single,"Eixample, Barcelona - 1.5 km - Metro access - Beach nearby",8.7
+SM Hotel Sant Antoni,Barcelona,3,BA_0014_027,153,Single,"Eixample, Barcelona - 1.5 km - Metro access - Beach nearby",8.7
+SM Hotel Sant Antoni,Barcelona,3,BA_0014_028,153,Single,"Eixample, Barcelona - 1.5 km - Metro access - Beach nearby",8.7
+SM Hotel Sant Antoni,Barcelona,3,BA_0014_029,153,Single,"Eixample, Barcelona - 1.5 km - Metro access - Beach nearby",8.7
+Catalonia Avinyo,Barcelona,3,BA_0015_000,146,Double,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Catalonia Avinyo,Barcelona,3,BA_0015_001,146,Double,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Catalonia Avinyo,Barcelona,3,BA_0015_002,146,Double,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Catalonia Avinyo,Barcelona,3,BA_0015_003,146,Double,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Catalonia Avinyo,Barcelona,3,BA_0015_004,146,Double,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Catalonia Avinyo,Barcelona,3,BA_0015_005,146,Double,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Catalonia Avinyo,Barcelona,3,BA_0015_006,146,Double,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Catalonia Avinyo,Barcelona,3,BA_0015_007,146,Double,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Catalonia Avinyo,Barcelona,3,BA_0015_008,146,Double,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Catalonia Avinyo,Barcelona,3,BA_0015_009,123,Single,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Catalonia Avinyo,Barcelona,3,BA_0015_010,123,Single,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Catalonia Avinyo,Barcelona,3,BA_0015_011,123,Single,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Catalonia Avinyo,Barcelona,3,BA_0015_012,123,Single,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Catalonia Avinyo,Barcelona,3,BA_0015_013,123,Single,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Catalonia Avinyo,Barcelona,3,BA_0015_014,123,Single,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Catalonia Avinyo,Barcelona,3,BA_0015_015,123,Single,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Catalonia Avinyo,Barcelona,3,BA_0015_016,123,Single,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Catalonia Avinyo,Barcelona,3,BA_0015_017,123,Single,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Catalonia Avinyo,Barcelona,3,BA_0015_018,185,Triple,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Catalonia Avinyo,Barcelona,3,BA_0015_019,185,Triple,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Catalonia Avinyo,Barcelona,3,BA_0015_020,185,Triple,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Catalonia Avinyo,Barcelona,3,BA_0015_021,185,Triple,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Catalonia Avinyo,Barcelona,3,BA_0015_022,185,Triple,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Catalonia Avinyo,Barcelona,3,BA_0015_023,185,Triple,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Catalonia Avinyo,Barcelona,3,BA_0015_024,185,Triple,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Catalonia Avinyo,Barcelona,3,BA_0015_025,185,Triple,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Catalonia Avinyo,Barcelona,3,BA_0015_026,185,Triple,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Catalonia Avinyo,Barcelona,3,BA_0015_027,185,Triple,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Catalonia Avinyo,Barcelona,3,BA_0015_028,185,Triple,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Catalonia Avinyo,Barcelona,3,BA_0015_029,185,Triple,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Flor Parks,Barcelona,3,BA_0016_000,152,Double,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Flor Parks,Barcelona,3,BA_0016_001,152,Double,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Flor Parks,Barcelona,3,BA_0016_002,152,Double,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Flor Parks,Barcelona,3,BA_0016_003,152,Double,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Flor Parks,Barcelona,3,BA_0016_004,152,Double,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Flor Parks,Barcelona,3,BA_0016_005,152,Double,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Flor Parks,Barcelona,3,BA_0016_006,152,Double,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Flor Parks,Barcelona,3,BA_0016_007,152,Double,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Flor Parks,Barcelona,3,BA_0016_008,152,Double,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Flor Parks,Barcelona,3,BA_0016_009,152,Double,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Flor Parks,Barcelona,3,BA_0016_010,152,Double,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Flor Parks,Barcelona,3,BA_0016_011,152,Double,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Flor Parks,Barcelona,3,BA_0016_012,152,Double,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Flor Parks,Barcelona,3,BA_0016_013,152,Double,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Flor Parks,Barcelona,3,BA_0016_014,152,Double,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Flor Parks,Barcelona,3,BA_0016_015,152,Double,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Flor Parks,Barcelona,3,BA_0016_016,152,Double,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Flor Parks,Barcelona,3,BA_0016_017,152,Double,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Flor Parks,Barcelona,3,BA_0016_018,152,Double,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+Flor Parks,Barcelona,3,BA_0016_019,152,Double,"Ciutat Vella, Barcelona - 0.8 km - Metro access - Beach nearby",8.6
+NH Sants Barcelona,Barcelona,4,BA_0017_000,114,Double,"Les Corts, Barcelona - 2.7 km - Metro access -",8.6
+NH Sants Barcelona,Barcelona,4,BA_0017_001,114,Double,"Les Corts, Barcelona - 2.7 km - Metro access -",8.6
+NH Sants Barcelona,Barcelona,4,BA_0017_002,114,Double,"Les Corts, Barcelona - 2.7 km - Metro access -",8.6
+NH Sants Barcelona,Barcelona,4,BA_0017_003,114,Double,"Les Corts, Barcelona - 2.7 km - Metro access -",8.6
+NH Sants Barcelona,Barcelona,4,BA_0017_004,114,Double,"Les Corts, Barcelona - 2.7 km - Metro access -",8.6
+NH Sants Barcelona,Barcelona,4,BA_0017_005,114,Double,"Les Corts, Barcelona - 2.7 km - Metro access -",8.6
+NH Sants Barcelona,Barcelona,4,BA_0017_006,114,Double,"Les Corts, Barcelona - 2.7 km - Metro access -",8.6
+NH Sants Barcelona,Barcelona,4,BA_0017_007,114,Double,"Les Corts, Barcelona - 2.7 km - Metro access -",8.6
+NH Sants Barcelona,Barcelona,4,BA_0017_008,114,Double,"Les Corts, Barcelona - 2.7 km - Metro access -",8.6
+NH Sants Barcelona,Barcelona,4,BA_0017_009,114,Double,"Les Corts, Barcelona - 2.7 km - Metro access -",8.6
+NH Sants Barcelona,Barcelona,4,BA_0017_010,114,Double,"Les Corts, Barcelona - 2.7 km - Metro access -",8.6
+NH Sants Barcelona,Barcelona,4,BA_0017_011,93,Single,"Les Corts, Barcelona - 2.7 km - Metro access -",8.6
+NH Sants Barcelona,Barcelona,4,BA_0017_012,93,Single,"Les Corts, Barcelona - 2.7 km - Metro access -",8.6
+NH Sants Barcelona,Barcelona,4,BA_0017_013,93,Single,"Les Corts, Barcelona - 2.7 km - Metro access -",8.6
+NH Sants Barcelona,Barcelona,4,BA_0017_014,93,Single,"Les Corts, Barcelona - 2.7 km - Metro access -",8.6
+NH Sants Barcelona,Barcelona,4,BA_0017_015,93,Single,"Les Corts, Barcelona - 2.7 km - Metro access -",8.6
+NH Sants Barcelona,Barcelona,4,BA_0017_016,93,Single,"Les Corts, Barcelona - 2.7 km - Metro access -",8.6
+NH Sants Barcelona,Barcelona,4,BA_0017_017,93,Single,"Les Corts, Barcelona - 2.7 km - Metro access -",8.6
+NH Sants Barcelona,Barcelona,4,BA_0017_018,93,Single,"Les Corts, Barcelona - 2.7 km - Metro access -",8.6
+NH Sants Barcelona,Barcelona,4,BA_0017_019,93,Single,"Les Corts, Barcelona - 2.7 km - Metro access -",8.6
+NH Sants Barcelona,Barcelona,4,BA_0017_020,93,Single,"Les Corts, Barcelona - 2.7 km - Metro access -",8.6
+NH Sants Barcelona,Barcelona,4,BA_0017_021,93,Single,"Les Corts, Barcelona - 2.7 km - Metro access -",8.6
+Chic & Basic Velvet,Barcelona,3,BA_0018_000,130,Single,"Eixample, Barcelona - 1.9 km - Metro access -",8.3
+Chic & Basic Velvet,Barcelona,3,BA_0018_001,130,Single,"Eixample, Barcelona - 1.9 km - Metro access -",8.3
+Chic & Basic Velvet,Barcelona,3,BA_0018_002,130,Single,"Eixample, Barcelona - 1.9 km - Metro access -",8.3
+Chic & Basic Velvet,Barcelona,3,BA_0018_003,130,Single,"Eixample, Barcelona - 1.9 km - Metro access -",8.3
+Chic & Basic Velvet,Barcelona,3,BA_0018_004,130,Single,"Eixample, Barcelona - 1.9 km - Metro access -",8.3
+Chic & Basic Velvet,Barcelona,3,BA_0018_005,130,Single,"Eixample, Barcelona - 1.9 km - Metro access -",8.3
+Chic & Basic Velvet,Barcelona,3,BA_0018_006,130,Single,"Eixample, Barcelona - 1.9 km - Metro access -",8.3
+Chic & Basic Velvet,Barcelona,3,BA_0018_007,130,Single,"Eixample, Barcelona - 1.9 km - Metro access -",8.3
+Chic & Basic Velvet,Barcelona,3,BA_0018_008,130,Single,"Eixample, Barcelona - 1.9 km - Metro access -",8.3
+Chic & Basic Velvet,Barcelona,3,BA_0018_009,130,Single,"Eixample, Barcelona - 1.9 km - Metro access -",8.3
+Chic & Basic Velvet,Barcelona,3,BA_0018_010,170,Double,"Eixample, Barcelona - 1.9 km - Metro access -",8.3
+Chic & Basic Velvet,Barcelona,3,BA_0018_011,170,Double,"Eixample, Barcelona - 1.9 km - Metro access -",8.3
+Chic & Basic Velvet,Barcelona,3,BA_0018_012,170,Double,"Eixample, Barcelona - 1.9 km - Metro access -",8.3
+Chic & Basic Velvet,Barcelona,3,BA_0018_013,170,Double,"Eixample, Barcelona - 1.9 km - Metro access -",8.3
+Chic & Basic Velvet,Barcelona,3,BA_0018_014,170,Double,"Eixample, Barcelona - 1.9 km - Metro access -",8.3
+Chic & Basic Velvet,Barcelona,3,BA_0018_015,170,Double,"Eixample, Barcelona - 1.9 km - Metro access -",8.3
+Chic & Basic Velvet,Barcelona,3,BA_0018_016,170,Double,"Eixample, Barcelona - 1.9 km - Metro access -",8.3
+Chic & Basic Velvet,Barcelona,3,BA_0018_017,170,Double,"Eixample, Barcelona - 1.9 km - Metro access -",8.3
+Chic & Basic Velvet,Barcelona,3,BA_0018_018,170,Double,"Eixample, Barcelona - 1.9 km - Metro access -",8.3
+Chic & Basic Velvet,Barcelona,3,BA_0018_019,170,Double,"Eixample, Barcelona - 1.9 km - Metro access -",8.3
+Mercure Barcelona Condor,Barcelona,4,BA_0019_000,146,Triple,"Sarrià-St. Gervasi, Barcelona - 2.5 km - Metro access -",8.3
+Mercure Barcelona Condor,Barcelona,4,BA_0019_001,146,Triple,"Sarrià-St. Gervasi, Barcelona - 2.5 km - Metro access -",8.3
+Mercure Barcelona Condor,Barcelona,4,BA_0019_002,146,Triple,"Sarrià-St. Gervasi, Barcelona - 2.5 km - Metro access -",8.3
+Mercure Barcelona Condor,Barcelona,4,BA_0019_003,146,Triple,"Sarrià-St. Gervasi, Barcelona - 2.5 km - Metro access -",8.3
+Mercure Barcelona Condor,Barcelona,4,BA_0019_004,146,Triple,"Sarrià-St. Gervasi, Barcelona - 2.5 km - Metro access -",8.3
+Mercure Barcelona Condor,Barcelona,4,BA_0019_005,146,Triple,"Sarrià-St. Gervasi, Barcelona - 2.5 km - Metro access -",8.3
+Mercure Barcelona Condor,Barcelona,4,BA_0019_006,146,Triple,"Sarrià-St. Gervasi, Barcelona - 2.5 km - Metro access -",8.3
+Mercure Barcelona Condor,Barcelona,4,BA_0019_007,146,Triple,"Sarrià-St. Gervasi, Barcelona - 2.5 km - Metro access -",8.3
+Mercure Barcelona Condor,Barcelona,4,BA_0019_008,146,Triple,"Sarrià-St. Gervasi, Barcelona - 2.5 km - Metro access -",8.3
+Mercure Barcelona Condor,Barcelona,4,BA_0019_009,146,Triple,"Sarrià-St. Gervasi, Barcelona - 2.5 km - Metro access -",8.3
+Mercure Barcelona Condor,Barcelona,4,BA_0019_010,146,Triple,"Sarrià-St. Gervasi, Barcelona - 2.5 km - Metro access -",8.3
+Mercure Barcelona Condor,Barcelona,4,BA_0019_011,146,Triple,"Sarrià-St. Gervasi, Barcelona - 2.5 km - Metro access -",8.3
+Mercure Barcelona Condor,Barcelona,4,BA_0019_012,146,Triple,"Sarrià-St. Gervasi, Barcelona - 2.5 km - Metro access -",8.3
+Mercure Barcelona Condor,Barcelona,4,BA_0019_013,146,Triple,"Sarrià-St. Gervasi, Barcelona - 2.5 km - Metro access -",8.3
+Mercure Barcelona Condor,Barcelona,4,BA_0019_014,146,Triple,"Sarrià-St. Gervasi, Barcelona - 2.5 km - Metro access -",8.3
+Petit Palace Boqueria Garden,Barcelona,4,BA_0020_000,225,Triple,"Ciutat Vella, Barcelona - 0.7 km - Metro access - Beach nearby",8.6
+Petit Palace Boqueria Garden,Barcelona,4,BA_0020_001,225,Triple,"Ciutat Vella, Barcelona - 0.7 km - Metro access - Beach nearby",8.6
+Petit Palace Boqueria Garden,Barcelona,4,BA_0020_002,225,Triple,"Ciutat Vella, Barcelona - 0.7 km - Metro access - Beach nearby",8.6
+Petit Palace Boqueria Garden,Barcelona,4,BA_0020_003,225,Triple,"Ciutat Vella, Barcelona - 0.7 km - Metro access - Beach nearby",8.6
+Petit Palace Boqueria Garden,Barcelona,4,BA_0020_004,225,Triple,"Ciutat Vella, Barcelona - 0.7 km - Metro access - Beach nearby",8.6
+Petit Palace Boqueria Garden,Barcelona,4,BA_0020_005,225,Triple,"Ciutat Vella, Barcelona - 0.7 km - Metro access - Beach nearby",8.6
+Petit Palace Boqueria Garden,Barcelona,4,BA_0020_006,225,Triple,"Ciutat Vella, Barcelona - 0.7 km - Metro access - Beach nearby",8.6
+Petit Palace Boqueria Garden,Barcelona,4,BA_0020_007,225,Triple,"Ciutat Vella, Barcelona - 0.7 km - Metro access - Beach nearby",8.6
+Petit Palace Boqueria Garden,Barcelona,4,BA_0020_008,225,Triple,"Ciutat Vella, Barcelona - 0.7 km - Metro access - Beach nearby",8.6
+Petit Palace Boqueria Garden,Barcelona,4,BA_0020_009,225,Triple,"Ciutat Vella, Barcelona - 0.7 km - Metro access - Beach nearby",8.6
+Petit Palace Boqueria Garden,Barcelona,4,BA_0020_010,225,Triple,"Ciutat Vella, Barcelona - 0.7 km - Metro access - Beach nearby",8.6
+Petit Palace Boqueria Garden,Barcelona,4,BA_0020_011,225,Triple,"Ciutat Vella, Barcelona - 0.7 km - Metro access - Beach nearby",8.6
+Petit Palace Boqueria Garden,Barcelona,4,BA_0020_012,225,Triple,"Ciutat Vella, Barcelona - 0.7 km - Metro access - Beach nearby",8.6
+Petit Palace Boqueria Garden,Barcelona,4,BA_0020_013,225,Triple,"Ciutat Vella, Barcelona - 0.7 km - Metro access - Beach nearby",8.6
+Petit Palace Boqueria Garden,Barcelona,4,BA_0020_014,225,Triple,"Ciutat Vella, Barcelona - 0.7 km - Metro access - Beach nearby",8.6
+Petit Palace Boqueria Garden,Barcelona,4,BA_0020_015,225,Triple,"Ciutat Vella, Barcelona - 0.7 km - Metro access - Beach nearby",8.6
+Petit Palace Boqueria Garden,Barcelona,4,BA_0020_016,225,Triple,"Ciutat Vella, Barcelona - 0.7 km - Metro access - Beach nearby",8.6
+Petit Palace Boqueria Garden,Barcelona,4,BA_0020_017,225,Triple,"Ciutat Vella, Barcelona - 0.7 km - Metro access - Beach nearby",8.6
+Petit Palace Boqueria Garden,Barcelona,4,BA_0020_018,225,Triple,"Ciutat Vella, Barcelona - 0.7 km - Metro access - Beach nearby",8.6
+Petit Palace Boqueria Garden,Barcelona,4,BA_0020_019,225,Triple,"Ciutat Vella, Barcelona - 0.7 km - Metro access - Beach nearby",8.6
+Gaudi Hotel,Barcelona,3,BA_0021_000,204,Triple,"Ciutat Vella, Barcelona - 1 km - Metro access - Beach nearby",8.4
+Gaudi Hotel,Barcelona,3,BA_0021_001,204,Triple,"Ciutat Vella, Barcelona - 1 km - Metro access - Beach nearby",8.4
+Gaudi Hotel,Barcelona,3,BA_0021_002,204,Triple,"Ciutat Vella, Barcelona - 1 km - Metro access - Beach nearby",8.4
+Gaudi Hotel,Barcelona,3,BA_0021_003,204,Triple,"Ciutat Vella, Barcelona - 1 km - Metro access - Beach nearby",8.4
+Gaudi Hotel,Barcelona,3,BA_0021_004,204,Triple,"Ciutat Vella, Barcelona - 1 km - Metro access - Beach nearby",8.4
+Gaudi Hotel,Barcelona,3,BA_0021_005,204,Triple,"Ciutat Vella, Barcelona - 1 km - Metro access - Beach nearby",8.4
+Gaudi Hotel,Barcelona,3,BA_0021_006,204,Triple,"Ciutat Vella, Barcelona - 1 km - Metro access - Beach nearby",8.4
+Gaudi Hotel,Barcelona,3,BA_0021_007,204,Triple,"Ciutat Vella, Barcelona - 1 km - Metro access - Beach nearby",8.4
+Gaudi Hotel,Barcelona,3,BA_0021_008,204,Triple,"Ciutat Vella, Barcelona - 1 km - Metro access - Beach nearby",8.4
+Gaudi Hotel,Barcelona,3,BA_0021_009,204,Triple,"Ciutat Vella, Barcelona - 1 km - Metro access - Beach nearby",8.4
+Gaudi Hotel,Barcelona,3,BA_0021_010,204,Triple,"Ciutat Vella, Barcelona - 1 km - Metro access - Beach nearby",8.4
+Gaudi Hotel,Barcelona,3,BA_0021_011,204,Triple,"Ciutat Vella, Barcelona - 1 km - Metro access - Beach nearby",8.4
+Gaudi Hotel,Barcelona,3,BA_0021_012,204,Triple,"Ciutat Vella, Barcelona - 1 km - Metro access - Beach nearby",8.4
+Gaudi Hotel,Barcelona,3,BA_0021_013,204,Triple,"Ciutat Vella, Barcelona - 1 km - Metro access - Beach nearby",8.4
+Praktik Garden,Barcelona,2,BA_0022_000,157,Single,"Eixample, Barcelona - 0.7 km - Metro access - Beach nearby",8.5
+Praktik Garden,Barcelona,2,BA_0022_001,157,Single,"Eixample, Barcelona - 0.7 km - Metro access - Beach nearby",8.5
+Praktik Garden,Barcelona,2,BA_0022_002,157,Single,"Eixample, Barcelona - 0.7 km - Metro access - Beach nearby",8.5
+Praktik Garden,Barcelona,2,BA_0022_003,157,Single,"Eixample, Barcelona - 0.7 km - Metro access - Beach nearby",8.5
+Praktik Garden,Barcelona,2,BA_0022_004,157,Single,"Eixample, Barcelona - 0.7 km - Metro access - Beach nearby",8.5
+Praktik Garden,Barcelona,2,BA_0022_005,157,Single,"Eixample, Barcelona - 0.7 km - Metro access - Beach nearby",8.5
+Praktik Garden,Barcelona,2,BA_0022_006,157,Single,"Eixample, Barcelona - 0.7 km - Metro access - Beach nearby",8.5
+Praktik Garden,Barcelona,2,BA_0022_007,157,Single,"Eixample, Barcelona - 0.7 km - Metro access - Beach nearby",8.5
+Praktik Garden,Barcelona,2,BA_0022_008,157,Single,"Eixample, Barcelona - 0.7 km - Metro access - Beach nearby",8.5
+Praktik Garden,Barcelona,2,BA_0022_009,157,Single,"Eixample, Barcelona - 0.7 km - Metro access - Beach nearby",8.5
+Praktik Garden,Barcelona,2,BA_0022_010,157,Single,"Eixample, Barcelona - 0.7 km - Metro access - Beach nearby",8.5
+Praktik Garden,Barcelona,2,BA_0022_011,157,Single,"Eixample, Barcelona - 0.7 km - Metro access - Beach nearby",8.5
+Praktik Garden,Barcelona,2,BA_0022_012,157,Single,"Eixample, Barcelona - 0.7 km - Metro access - Beach nearby",8.5
+Praktik Garden,Barcelona,2,BA_0022_013,157,Single,"Eixample, Barcelona - 0.7 km - Metro access - Beach nearby",8.5
+Praktik Garden,Barcelona,2,BA_0022_014,157,Single,"Eixample, Barcelona - 0.7 km - Metro access - Beach nearby",8.5
+Praktik Garden,Barcelona,2,BA_0022_015,157,Single,"Eixample, Barcelona - 0.7 km - Metro access - Beach nearby",8.5
+Praktik Garden,Barcelona,2,BA_0022_016,157,Single,"Eixample, Barcelona - 0.7 km - Metro access - Beach nearby",8.5
+Praktik Garden,Barcelona,2,BA_0022_017,157,Single,"Eixample, Barcelona - 0.7 km - Metro access - Beach nearby",8.5
+Praktik Garden,Barcelona,2,BA_0022_018,157,Single,"Eixample, Barcelona - 0.7 km - Metro access - Beach nearby",8.5
+Praktik Garden,Barcelona,2,BA_0022_019,157,Single,"Eixample, Barcelona - 0.7 km - Metro access - Beach nearby",8.5
+Oriente Atiram,Barcelona,3,BA_0023_000,117,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.0
+Oriente Atiram,Barcelona,3,BA_0023_001,117,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.0
+Oriente Atiram,Barcelona,3,BA_0023_002,117,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.0
+Oriente Atiram,Barcelona,3,BA_0023_003,117,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.0
+Oriente Atiram,Barcelona,3,BA_0023_004,117,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.0
+Oriente Atiram,Barcelona,3,BA_0023_005,117,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.0
+Oriente Atiram,Barcelona,3,BA_0023_006,117,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.0
+Oriente Atiram,Barcelona,3,BA_0023_007,117,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.0
+Oriente Atiram,Barcelona,3,BA_0023_008,117,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.0
+Oriente Atiram,Barcelona,3,BA_0023_009,117,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.0
+Oriente Atiram,Barcelona,3,BA_0023_010,117,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.0
+Oriente Atiram,Barcelona,3,BA_0023_011,117,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.0
+Oriente Atiram,Barcelona,3,BA_0023_012,117,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.0
+Oriente Atiram,Barcelona,3,BA_0023_013,117,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.0
+Oriente Atiram,Barcelona,3,BA_0023_014,117,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.0
+Oriente Atiram,Barcelona,3,BA_0023_015,117,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.0
+Oriente Atiram,Barcelona,3,BA_0023_016,117,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.0
+Oriente Atiram,Barcelona,3,BA_0023_017,117,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.0
+Oriente Atiram,Barcelona,3,BA_0023_018,117,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.0
+Oriente Atiram,Barcelona,3,BA_0023_019,117,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.0
+Oriente Atiram,Barcelona,3,BA_0023_020,117,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.0
+Oriente Atiram,Barcelona,3,BA_0023_021,117,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.0
+Oriente Atiram,Barcelona,3,BA_0023_022,117,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.0
+Oriente Atiram,Barcelona,3,BA_0023_023,117,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.0
+Oriente Atiram,Barcelona,3,BA_0023_024,117,Double,"Ciutat Vella, Barcelona - 0.9 km - Metro access - Beach nearby",8.0
+Catalonia Atenas,Barcelona,4,BA_0024_000,94,Single,"Sant Martí, Barcelona - 3 km - Metro access - Beach nearby",8.1
+Catalonia Atenas,Barcelona,4,BA_0024_001,94,Single,"Sant Martí, Barcelona - 3 km - Metro access - Beach nearby",8.1
+Catalonia Atenas,Barcelona,4,BA_0024_002,94,Single,"Sant Martí, Barcelona - 3 km - Metro access - Beach nearby",8.1
+Catalonia Atenas,Barcelona,4,BA_0024_003,94,Single,"Sant Martí, Barcelona - 3 km - Metro access - Beach nearby",8.1
+Catalonia Atenas,Barcelona,4,BA_0024_004,94,Single,"Sant Martí, Barcelona - 3 km - Metro access - Beach nearby",8.1
+Catalonia Atenas,Barcelona,4,BA_0024_005,94,Single,"Sant Martí, Barcelona - 3 km - Metro access - Beach nearby",8.1
+Catalonia Atenas,Barcelona,4,BA_0024_006,94,Single,"Sant Martí, Barcelona - 3 km - Metro access - Beach nearby",8.1
+Catalonia Atenas,Barcelona,4,BA_0024_007,94,Single,"Sant Martí, Barcelona - 3 km - Metro access - Beach nearby",8.1
+Catalonia Atenas,Barcelona,4,BA_0024_008,94,Single,"Sant Martí, Barcelona - 3 km - Metro access - Beach nearby",8.1
+Catalonia Atenas,Barcelona,4,BA_0024_009,94,Single,"Sant Martí, Barcelona - 3 km - Metro access - Beach nearby",8.1
+Catalonia Atenas,Barcelona,4,BA_0024_010,94,Single,"Sant Martí, Barcelona - 3 km - Metro access - Beach nearby",8.1
+Catalonia Atenas,Barcelona,4,BA_0024_011,94,Single,"Sant Martí, Barcelona - 3 km - Metro access - Beach nearby",8.1
+Catalonia Atenas,Barcelona,4,BA_0024_012,94,Single,"Sant Martí, Barcelona - 3 km - Metro access - Beach nearby",8.1
+Hotel Market,Barcelona,3,BA_0025_000,123,Single,"Eixample, Barcelona - 1.2 km - Metro access - Beach nearby",8.0
+Hotel Market,Barcelona,3,BA_0025_001,123,Single,"Eixample, Barcelona - 1.2 km - Metro access - Beach nearby",8.0
+Hotel Market,Barcelona,3,BA_0025_002,123,Single,"Eixample, Barcelona - 1.2 km - Metro access - Beach nearby",8.0
+Hotel Market,Barcelona,3,BA_0025_003,123,Single,"Eixample, Barcelona - 1.2 km - Metro access - Beach nearby",8.0
+Hotel Market,Barcelona,3,BA_0025_004,123,Single,"Eixample, Barcelona - 1.2 km - Metro access - Beach nearby",8.0
+Hotel Market,Barcelona,3,BA_0025_005,123,Single,"Eixample, Barcelona - 1.2 km - Metro access - Beach nearby",8.0
+Hotel Market,Barcelona,3,BA_0025_006,123,Single,"Eixample, Barcelona - 1.2 km - Metro access - Beach nearby",8.0
+Hotel Market,Barcelona,3,BA_0025_007,123,Single,"Eixample, Barcelona - 1.2 km - Metro access - Beach nearby",8.0
+Hotel Market,Barcelona,3,BA_0025_008,123,Single,"Eixample, Barcelona - 1.2 km - Metro access - Beach nearby",8.0
+Hotel Market,Barcelona,3,BA_0025_009,123,Single,"Eixample, Barcelona - 1.2 km - Metro access - Beach nearby",8.0
+Hotel Market,Barcelona,3,BA_0025_010,123,Single,"Eixample, Barcelona - 1.2 km - Metro access - Beach nearby",8.0
+Hotel Market,Barcelona,3,BA_0025_011,123,Single,"Eixample, Barcelona - 1.2 km - Metro access - Beach nearby",8.0
+Hotel Market,Barcelona,3,BA_0025_012,123,Single,"Eixample, Barcelona - 1.2 km - Metro access - Beach nearby",8.0
+Hotel Market,Barcelona,3,BA_0025_013,123,Single,"Eixample, Barcelona - 1.2 km - Metro access - Beach nearby",8.0
+Hotel Market,Barcelona,3,BA_0025_014,123,Single,"Eixample, Barcelona - 1.2 km - Metro access - Beach nearby",8.0
+Catalonia Park Güell,Barcelona,3,BA_0026_000,73,Single,"Gràcia, Barcelona - 3.7 km - Metro access -",7.7
+Catalonia Park Güell,Barcelona,3,BA_0026_001,73,Single,"Gràcia, Barcelona - 3.7 km - Metro access -",7.7
+Catalonia Park Güell,Barcelona,3,BA_0026_002,73,Single,"Gràcia, Barcelona - 3.7 km - Metro access -",7.7
+Catalonia Park Güell,Barcelona,3,BA_0026_003,73,Single,"Gràcia, Barcelona - 3.7 km - Metro access -",7.7
+Catalonia Park Güell,Barcelona,3,BA_0026_004,73,Single,"Gràcia, Barcelona - 3.7 km - Metro access -",7.7
+Catalonia Park Güell,Barcelona,3,BA_0026_005,73,Single,"Gràcia, Barcelona - 3.7 km - Metro access -",7.7
+Catalonia Park Güell,Barcelona,3,BA_0026_006,73,Single,"Gràcia, Barcelona - 3.7 km - Metro access -",7.7
+Catalonia Park Güell,Barcelona,3,BA_0026_007,73,Single,"Gràcia, Barcelona - 3.7 km - Metro access -",7.7
+Catalonia Park Güell,Barcelona,3,BA_0026_008,73,Single,"Gràcia, Barcelona - 3.7 km - Metro access -",7.7
+Catalonia Park Güell,Barcelona,3,BA_0026_009,73,Single,"Gràcia, Barcelona - 3.7 km - Metro access -",7.7
+Catalonia Park Güell,Barcelona,3,BA_0026_010,73,Single,"Gràcia, Barcelona - 3.7 km - Metro access -",7.7
+Catalonia Park Güell,Barcelona,3,BA_0026_011,73,Single,"Gràcia, Barcelona - 3.7 km - Metro access -",7.7
+Catalonia Park Güell,Barcelona,3,BA_0026_012,73,Single,"Gràcia, Barcelona - 3.7 km - Metro access -",7.7
+Catalonia Park Güell,Barcelona,3,BA_0026_013,73,Single,"Gràcia, Barcelona - 3.7 km - Metro access -",7.7
+Catalonia Park Güell,Barcelona,3,BA_0026_014,73,Single,"Gràcia, Barcelona - 3.7 km - Metro access -",7.7
+Catalonia Park Güell,Barcelona,3,BA_0026_015,73,Single,"Gràcia, Barcelona - 3.7 km - Metro access -",7.7
+Catalonia Park Güell,Barcelona,3,BA_0026_016,73,Single,"Gràcia, Barcelona - 3.7 km - Metro access -",7.7
+Catalonia Park Güell,Barcelona,3,BA_0026_017,73,Single,"Gràcia, Barcelona - 3.7 km - Metro access -",7.7
+Catalonia Park Güell,Barcelona,3,BA_0026_018,73,Single,"Gràcia, Barcelona - 3.7 km - Metro access -",7.7
+Catalonia Park Güell,Barcelona,3,BA_0026_019,73,Single,"Gràcia, Barcelona - 3.7 km - Metro access -",7.7
+Catalonia Park Güell,Barcelona,3,BA_0026_020,73,Single,"Gràcia, Barcelona - 3.7 km - Metro access -",7.7
+Catalonia Park Güell,Barcelona,3,BA_0026_021,73,Single,"Gràcia, Barcelona - 3.7 km - Metro access -",7.7
+Catalonia Park Güell,Barcelona,3,BA_0026_022,73,Single,"Gràcia, Barcelona - 3.7 km - Metro access -",7.7
+Catalonia Park Güell,Barcelona,3,BA_0026_023,73,Single,"Gràcia, Barcelona - 3.7 km - Metro access -",7.7
+Hotel Barcelona Universal,Barcelona,4,BA_0027_000,164,Double,"Ciutat Vella, Barcelona - 1.3 km - Metro access - Beach nearby",8.6
+Hotel Barcelona Universal,Barcelona,4,BA_0027_001,164,Double,"Ciutat Vella, Barcelona - 1.3 km - Metro access - Beach nearby",8.6
+Hotel Barcelona Universal,Barcelona,4,BA_0027_002,164,Double,"Ciutat Vella, Barcelona - 1.3 km - Metro access - Beach nearby",8.6
+Hotel Barcelona Universal,Barcelona,4,BA_0027_003,164,Double,"Ciutat Vella, Barcelona - 1.3 km - Metro access - Beach nearby",8.6
+Hotel Barcelona Universal,Barcelona,4,BA_0027_004,164,Double,"Ciutat Vella, Barcelona - 1.3 km - Metro access - Beach nearby",8.6
+Hotel Barcelona Universal,Barcelona,4,BA_0027_005,164,Double,"Ciutat Vella, Barcelona - 1.3 km - Metro access - Beach nearby",8.6
+Hotel Barcelona Universal,Barcelona,4,BA_0027_006,164,Double,"Ciutat Vella, Barcelona - 1.3 km - Metro access - Beach nearby",8.6
+Hotel Barcelona Universal,Barcelona,4,BA_0027_007,164,Double,"Ciutat Vella, Barcelona - 1.3 km - Metro access - Beach nearby",8.6
+Hotel Barcelona Universal,Barcelona,4,BA_0027_008,164,Double,"Ciutat Vella, Barcelona - 1.3 km - Metro access - Beach nearby",8.6
+Hotel Barcelona Universal,Barcelona,4,BA_0027_009,164,Double,"Ciutat Vella, Barcelona - 1.3 km - Metro access - Beach nearby",8.6
+Hotel Barcelona Universal,Barcelona,4,BA_0027_010,164,Double,"Ciutat Vella, Barcelona - 1.3 km - Metro access - Beach nearby",8.6
+Hotel Barcelona Universal,Barcelona,4,BA_0027_011,164,Double,"Ciutat Vella, Barcelona - 1.3 km - Metro access - Beach nearby",8.6
+Hotel Barcelona Universal,Barcelona,4,BA_0027_012,164,Double,"Ciutat Vella, Barcelona - 1.3 km - Metro access - Beach nearby",8.6
+Hotel Barcelona Universal,Barcelona,4,BA_0027_013,164,Double,"Ciutat Vella, Barcelona - 1.3 km - Metro access - Beach nearby",8.6
+Hotel Barcelona Universal,Barcelona,4,BA_0027_014,164,Double,"Ciutat Vella, Barcelona - 1.3 km - Metro access - Beach nearby",8.6
+Hotel Barcelona Universal,Barcelona,4,BA_0027_015,164,Double,"Ciutat Vella, Barcelona - 1.3 km - Metro access - Beach nearby",8.6
+Hotel Barcelona Universal,Barcelona,4,BA_0027_016,164,Double,"Ciutat Vella, Barcelona - 1.3 km - Metro access - Beach nearby",8.6
+Hotel Barcelona Universal,Barcelona,4,BA_0027_017,164,Double,"Ciutat Vella, Barcelona - 1.3 km - Metro access - Beach nearby",8.6
+Hotel Barcelona Universal,Barcelona,4,BA_0027_018,164,Double,"Ciutat Vella, Barcelona - 1.3 km - Metro access - Beach nearby",8.6
+Hotel Barcelona Universal,Barcelona,4,BA_0027_019,164,Double,"Ciutat Vella, Barcelona - 1.3 km - Metro access - Beach nearby",8.6
+Hotel Barcelona Universal,Barcelona,4,BA_0027_020,164,Double,"Ciutat Vella, Barcelona - 1.3 km - Metro access - Beach nearby",8.6
+Hotel Barcelona Universal,Barcelona,4,BA_0027_021,164,Double,"Ciutat Vella, Barcelona - 1.3 km - Metro access - Beach nearby",8.6
+Hotel Barcelona Universal,Barcelona,4,BA_0027_022,164,Double,"Ciutat Vella, Barcelona - 1.3 km - Metro access - Beach nearby",8.6
+Hotel Barcelona Universal,Barcelona,4,BA_0027_023,164,Double,"Ciutat Vella, Barcelona - 1.3 km - Metro access - Beach nearby",8.6
+Hotel Barcelona Universal,Barcelona,4,BA_0027_024,164,Double,"Ciutat Vella, Barcelona - 1.3 km - Metro access - Beach nearby",8.6
+Hotel Barcelona Universal,Barcelona,4,BA_0027_025,164,Double,"Ciutat Vella, Barcelona - 1.3 km - Metro access - Beach nearby",8.6
+Hotel Barcelona Universal,Barcelona,4,BA_0027_026,164,Double,"Ciutat Vella, Barcelona - 1.3 km - Metro access - Beach nearby",8.6
+Hotel Barcelona Universal,Barcelona,4,BA_0027_027,164,Double,"Ciutat Vella, Barcelona - 1.3 km - Metro access - Beach nearby",8.6
+Hotel Barcelona Universal,Barcelona,4,BA_0027_028,164,Double,"Ciutat Vella, Barcelona - 1.3 km - Metro access - Beach nearby",8.6
+Hotel Barcelona Universal,Barcelona,4,BA_0027_029,164,Double,"Ciutat Vella, Barcelona - 1.3 km - Metro access - Beach nearby",8.6
+Pestana Arena Barcelona,Barcelona,4,BA_0028_000,109,Double,"Sants-Montjuïc, Barcelona - 2.3 km - Metro access -",8.6
+Pestana Arena Barcelona,Barcelona,4,BA_0028_001,109,Double,"Sants-Montjuïc, Barcelona - 2.3 km - Metro access -",8.6
+Pestana Arena Barcelona,Barcelona,4,BA_0028_002,109,Double,"Sants-Montjuïc, Barcelona - 2.3 km - Metro access -",8.6
+Pestana Arena Barcelona,Barcelona,4,BA_0028_003,109,Double,"Sants-Montjuïc, Barcelona - 2.3 km - Metro access -",8.6
+Pestana Arena Barcelona,Barcelona,4,BA_0028_004,109,Double,"Sants-Montjuïc, Barcelona - 2.3 km - Metro access -",8.6
+Pestana Arena Barcelona,Barcelona,4,BA_0028_005,109,Double,"Sants-Montjuïc, Barcelona - 2.3 km - Metro access -",8.6
+Pestana Arena Barcelona,Barcelona,4,BA_0028_006,109,Double,"Sants-Montjuïc, Barcelona - 2.3 km - Metro access -",8.6
+Pestana Arena Barcelona,Barcelona,4,BA_0028_007,109,Double,"Sants-Montjuïc, Barcelona - 2.3 km - Metro access -",8.6
+Pestana Arena Barcelona,Barcelona,4,BA_0028_008,109,Double,"Sants-Montjuïc, Barcelona - 2.3 km - Metro access -",8.6
+Pestana Arena Barcelona,Barcelona,4,BA_0028_009,109,Double,"Sants-Montjuïc, Barcelona - 2.3 km - Metro access -",8.6
+Ayre Hotel Rosellón,Barcelona,4,BA_0029_000,132,Single,"Eixample, Barcelona - 2 km - Metro access - Beach nearby",8.7
+Ayre Hotel Rosellón,Barcelona,4,BA_0029_001,132,Single,"Eixample, Barcelona - 2 km - Metro access - Beach nearby",8.7
+Ayre Hotel Rosellón,Barcelona,4,BA_0029_002,132,Single,"Eixample, Barcelona - 2 km - Metro access - Beach nearby",8.7
+Ayre Hotel Rosellón,Barcelona,4,BA_0029_003,132,Single,"Eixample, Barcelona - 2 km - Metro access - Beach nearby",8.7
+Ayre Hotel Rosellón,Barcelona,4,BA_0029_004,132,Single,"Eixample, Barcelona - 2 km - Metro access - Beach nearby",8.7
+Ayre Hotel Rosellón,Barcelona,4,BA_0029_005,132,Single,"Eixample, Barcelona - 2 km - Metro access - Beach nearby",8.7
+Ayre Hotel Rosellón,Barcelona,4,BA_0029_006,132,Single,"Eixample, Barcelona - 2 km - Metro access - Beach nearby",8.7
+Ayre Hotel Rosellón,Barcelona,4,BA_0029_007,132,Single,"Eixample, Barcelona - 2 km - Metro access - Beach nearby",8.7
+Ayre Hotel Rosellón,Barcelona,4,BA_0029_008,132,Single,"Eixample, Barcelona - 2 km - Metro access - Beach nearby",8.7
+Ayre Hotel Rosellón,Barcelona,4,BA_0029_009,132,Single,"Eixample, Barcelona - 2 km - Metro access - Beach nearby",8.7
+Ayre Hotel Rosellón,Barcelona,4,BA_0029_010,132,Single,"Eixample, Barcelona - 2 km - Metro access - Beach nearby",8.7
+Ayre Hotel Rosellón,Barcelona,4,BA_0029_011,132,Single,"Eixample, Barcelona - 2 km - Metro access - Beach nearby",8.7
+Ayre Hotel Rosellón,Barcelona,4,BA_0029_012,132,Single,"Eixample, Barcelona - 2 km - Metro access - Beach nearby",8.7
