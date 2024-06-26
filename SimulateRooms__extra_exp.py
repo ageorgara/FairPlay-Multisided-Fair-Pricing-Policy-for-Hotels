@@ -67,7 +67,7 @@ def __findHotelFromList(x,hotels):
 
 
 
-def simulate(filename, simulation_period = 90, max_reservations_per_day = 100, cancelation_probability = 0.1, day_target = None):
+def simulate(filename, simulation_period = 90, max_reservations_per_day = 100, cancelation_probability = 0.1, day_target = None, output_file="Results"):
 	hotels = Hotel.loadHotelsCSV(filename)
 	all_room_ids = [r for h in hotels for r in h.getRoomList()]
 
@@ -203,37 +203,33 @@ def simulate(filename, simulation_period = 90, max_reservations_per_day = 100, c
 
 
 	
-		output_file = filename.split("/")
+		output_filename = filename.split("/")
 		
-		of = "/".join(output_file[:-1] + ["results XLSX/new series/"]) + "%s_prices_Owen"%(output_file[-1].split(".csv")[0])  +  "_%s_days__%.2f.csv"%(simulation_period,constant_incr)
+		of = output_file + "%s_prices_Owen"%(output_filename[-1].split(".csv")[0])  +  "_%s_days__%.2f.csv"%(simulation_period,constant_incr)
 		df_prices.to_csv(of, index = False)
-		of = "/".join(output_file[:-1] + ["results XLSX/new series/"]) + "%s_prices_Constant"%(output_file[-1].split(".csv")[0])  +  "_%s_days__%.2f.csv"%(simulation_period,constant_incr)
+		of = output_file + "%s_prices_Constant"%(output_filename[-1].split(".csv")[0])  +  "_%s_days__%.2f.csv"%(simulation_period,constant_incr)
 		df_prices_constant.to_csv(of, index = False)
-		of = "/".join(output_file[:-1] + ["results XLSX/new series/"]) + "%s_gain_Owen"%(output_file[-1].split(".csv")[0])  +  "_%s_days__%.2f.csv"%(simulation_period,constant_incr)
+		of = output_file + "%s_gain_Owen"%(output_filename[-1].split(".csv")[0])  +  "_%s_days__%.2f.csv"%(simulation_period,constant_incr)
 		df_gain.to_csv(of, index = False)
-		of = "/".join(output_file[:-1] + ["results XLSX/new series/"]) + "%s_gain_Constant"%(output_file[-1].split(".csv")[0])  +  "_%s_days__%.2f.csv"%(simulation_period,constant_incr)
+		of = output_file + "%s_gain_Constant"%(output_filename[-1].split(".csv")[0])  +  "_%s_days__%.2f.csv"%(simulation_period,constant_incr)
 		df_gain_constant.to_csv(of, index = False)
 
-		
-	of = "/".join(output_file[:-1] + ["results XLSX/new series/"]) + "%s_prices_Owen"%(output_file[-1].split(".csv")[0])  +  "_%s_days__%.2f.csv"%(simulation_period,constant_incr)
-	createXLSX(of)	
-	of = "/".join(output_file[:-1] + ["results XLSX/new series/"]) + "%s_prices_Constant"%(output_file[-1].split(".csv")[0])  +  "_%s_days__%.2f.csv"%(simulation_period,constant_incr)
+	of = output_file + "%s_prices_Owen" % (output_filename[-1].split(".csv")[0]) + "_%s_days__%.2f.csv" % (
+	simulation_period, constant_incr)
+	createXLSX(of)
+	of = output_file + "%s_prices_Constant" % (output_filename[-1].split(".csv")[0]) + "_%s_days__%.2f.csv" % (
+		simulation_period, constant_incr)
 	createXLSX(of)
 
-	# of = "/".join(output_file[:-1] + ["results XLSX/new series/"]) + "%s_gain_Owen"%(output_file[-1].split(".csv")[0])  +  "_%s_days__%d%%.csv"%(simulation_period,int(constant_incr*100))
-	# createXLSX(of)
-	# of = "/".join(output_file[:-1] + ["results XLSX/new series/"]) + "%s_gain_Constant"%(output_file[-1].split(".csv")[0])  +  "_%s_days__%d%%.csv"%(simulation_period,int(constant_incr*100))
-	# createXLSX(of)
-
-	of1 = "/".join(output_file[:-1] + ["results XLSX/new series/"]) + "%s_prices_Owen"%(output_file[-1].split(".csv")[0])  + "_%s_days__%.2f.csv"%(simulation_period,constant_incr)
-	of2 = "/".join(output_file[:-1] + ["results XLSX/new series/"]) + "%s_prices_Constant"%(output_file[-1].split(".csv")[0])  + "_%s_days__%.2f.csv"%(simulation_period,constant_incr)
-	of3 = "/".join(output_file[:-1] + ["results XLSX/new series/"]) + "%s_prices_Owen_vs_Constant"%(output_file[-1].split(".csv")[0])  + "_%s_days__%.2f.xlsx"%(simulation_period,constant_incr)
-	create_new_XLSX(input_file_constant=of2,input_file_owen=of1,output_file=of3)
-
-	of1 = "/".join(output_file[:-1] + ["results XLSX/new series/"]) + "%s_gain_Owen"%(output_file[-1].split(".csv")[0])  + "_%s_days__%.2f.csv"%(simulation_period,constant_incr)
-	of2 = "/".join(output_file[:-1] + ["results XLSX/new series/"]) + "%s_gain_Constant"%(output_file[-1].split(".csv")[0]) + "_%s_days__%.2f.csv"%(simulation_period,constant_incr)
-	of3 = "/".join(output_file[:-1] + ["results XLSX/new series/"]) + "%s_gain_Owen_vs_Constant"%(output_file[-1].split(".csv")[0])  + "_%s_days__%.2f.xlsx"%(simulation_period,constant_incr)
-	create_new_XLSX(input_file_constant=of2,input_file_owen=of1,output_file=of3)
+	# of1 = output_file + "%s_prices_Owen"%(output_filename[-1].split(".csv")[0])  + "_%s_days__%.2f.csv"%(simulation_period,constant_incr)
+	# of2 = output_file + "%s_prices_Constant"%(output_filename[-1].split(".csv")[0])  + "_%s_days__%.2f.csv"%(simulation_period,constant_incr)
+	# of3 = output_file + "%s_prices_Owen_vs_Constant"%(output_filename[-1].split(".csv")[0])  + "_%s_days__%.2f.xlsx"%(simulation_period,constant_incr)
+	# create_new_XLSX(input_file_constant=of2,input_file_owen=of1,output_file=of3)
+	#
+	# of1 = output_file + "%s_gain_Owen"%(output_filename[-1].split(".csv")[0])  + "_%s_days__%.2f.csv"%(simulation_period,constant_incr)
+	# of2 = output_file + "%s_gain_Constant"%(output_filename[-1].split(".csv")[0]) + "_%s_days__%.2f.csv"%(simulation_period,constant_incr)
+	# of3 = output_file + "%s_gain_Owen_vs_Constant"%(output_filename[-1].split(".csv")[0])  + "_%s_days__%.2f.xlsx"%(simulation_period,constant_incr)
+	# create_new_XLSX(input_file_constant=of2,input_file_owen=of1,output_file=of3)
 
 	df_counter = pd.DataFrame(columns = ["Hotel Id","Counter","Power"])
 	column_values = [str(h.id) for h in hotels]
@@ -243,7 +239,7 @@ def simulate(filename, simulation_period = 90, max_reservations_per_day = 100, c
 	column_values = [h.getSumPercentage() for h in hotels]
 	df_counter["Power"] = column_values
 
-	of = "/".join(output_file[:-1] + ["results XLSX/new series/"]) + "%s_exposure"%(output_file[-1].split(".csv")[0])  + "_%s_days__%d%%.csv"%(simulation_period,int(constant_incr*100))
+	of = output_file + "%s_exposure"%(output_filename[-1].split(".csv")[0])  + "_%s_days__%d%%.csv"%(simulation_period,int(constant_incr*100))
 	df_counter.to_csv(of, index = False)
 	
 
@@ -266,15 +262,15 @@ if __name__ == '__main__':
 	}
 	# folder = "/home/ageorg/Downloads/Dropbox-CSIC/Dropbox/Tractable Game Theoretic Solutions for Fair Hotel Room Pricing Recommendations/"
 
-	folder = "/home/ageorg/Documents/Hotel Room Pricing/"
-	for city in ["Barcelona"]:
+	folder = "Datasets"
+	for city in ["Rome"]:
 		# for size in ["small", "medium", "large"]:
 		size = sz[city]
 		# city = "Barcelona"
 		print(f'{city} {size}')
 
-		filename = f'{folder}6-Nov-23/ROOMS_{city}_{size}.csv'
-		simulate(filename, simulation_period=90, max_reservations_per_day=mrd[size],cancelation_probability=0.1 )
+		filename = f'{folder}/ROOMS_{city}_{size}.csv'
+		simulate(filename, simulation_period=10, max_reservations_per_day=mrd[size],cancelation_probability=0.1, output_file = "Results/" )
 		# ___post_calc_owen(filename, simulation_period=90 )
 		# simulation_period = 20
 		# output_file = filename.split("/")
